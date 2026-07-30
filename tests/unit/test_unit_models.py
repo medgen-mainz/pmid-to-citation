@@ -1,6 +1,8 @@
 """Tests for the record models and the packed-string fields they normalise."""
 
+import re
 from datetime import datetime
+from typing import cast
 
 import pydantic
 import pytest
@@ -21,6 +23,9 @@ from pmid_to_citation import (
 from pmid_to_citation._dates import parse_pubmed_datetime
 
 PEOPLE = [Person, Author, Editor, Investigator, PersonalNameSubject]
+
+# Sphinx cross-reference roles, e.g. `:attr:`pmid`` or `:class:`PubMedRecord``.
+SPHINX_ROLE = re.compile(r":[a-z]+:`")
 
 
 class TestParsePubmedDatetime:
@@ -198,3 +203,48 @@ class TestPubMedRecord:
 
     def test_whitespace_is_stripped(self) -> None:
         assert PubMedRecord(pmid=1, title="  padded  ").title == "padded"
+
+
+class TestSchemaDescriptions:
+    """Guards on the docstrings that reach consumers as schema descriptions.
+
+    Every model docstring in this module is republished as a JSON Schema
+    ``description``, so a service that uses one as a FastAPI ``response_model``
+    puts it in its own OpenAPI document and its generated clients. These tests
+    exist because an implementation note and two Sphinx roles once travelled that
+    far and turned up in a downstream project's TypeScript.
+    """
+
+    @staticmethod
+    def descriptions() -> dict[str, str]:
+        """Collect every description in the record schema, keyed by its location."""
+        found: dict[str, str] = {}
+
+        def walk(node: object, path: str) -> None:
+            if isinstance(node, dict):
+                for key, value in cast("dict[str, object]", node).items():
+                    if key == "description" and isinstance(value, str):
+                        found[path] = value
+                    walk(value, f"{path}.{key}")
+            elif isinstance(node, list):
+                for index, value in enumerate(cast("list[object]", node)):
+                    walk(value, f"{path}[{index}]")
+
+        walk(PubMedRecord.model_json_schema(), "$")
+        return found
+
+    def test_the_schema_actually_carries_descriptions(self) -> None:
+        # Otherwise the checks below would pass vacuously.
+        assert len(self.descriptions()) > 10
+
+    def test_no_description_contains_sphinx_role_syntax(self) -> None:
+        # `:attr:`pmid`` renders as documentation only in Sphinx. Everywhere else
+        # — an OpenAPI document, a generated TypeScript client — it is noise.
+        offenders = {path: text for path, text in self.descriptions().items() if SPHINX_ROLE.search(text)}
+        assert not offenders, f"use plain prose or ``literals`` instead: {offenders}"
+
+    def test_no_description_mentions_pydantic(self) -> None:
+        # A note about how this library is built says nothing to somebody
+        # consuming the data; such notes belong in comments.
+        offenders = {path: text for path, text in self.descriptions().items() if "pydantic" in text.lower()}
+        assert not offenders, f"move implementation notes into comments: {offenders}"

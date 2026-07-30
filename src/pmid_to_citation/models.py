@@ -382,14 +382,21 @@ class PublicationHistory(pydantic.BaseModel):
 class PubMedRecord(pydantic.BaseModel):
     """A complete PubMed record.
 
-    Only :attr:`pmid` is required; PubMed populates the rest unevenly, and a
-    record for a 1975 letter shares few fields with one for a GeneReviews
-    chapter. Fields whose tag this library does not model are preserved verbatim
-    in :attr:`other_fields` rather than discarded.
-
-    The mutable defaults below are safe: pydantic deep-copies a default value for
-    every instance, so no two records share a list.
+    Only ``pmid`` is required; PubMed populates the rest unevenly, and a record
+    for a 1975 letter shares few fields with one for a GeneReviews chapter.
+    Fields whose tag this library does not model are preserved verbatim in
+    ``other_fields`` rather than discarded.
     """
+
+    # This docstring, like every model docstring in this module, is republished as
+    # a JSON Schema description — and from there into the OpenAPI document and
+    # generated clients of anything that uses this model as a response model. So
+    # it must read as documentation of the data, and must avoid Sphinx roles,
+    # which render as literal `:attr:`name`` outside Sphinx. Notes for this
+    # project's own maintainers, such as the one below, belong in comments.
+    #
+    # The mutable defaults throughout are safe: pydantic deep-copies a default
+    # value for every instance, so no two records share a list.
 
     # Required fields
     pmid: int
