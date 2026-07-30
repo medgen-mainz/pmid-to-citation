@@ -1,0 +1,15 @@
+{
+  "release-type": "python",
+  "bump-minor-pre-major": false,
+  "bump-patch-for-minor-pre-major": false,
+  "draft": false,
+  "prerelease": false,
+  "packages": {
+    ".": {
+      "package-name": "pmid-to-citation",
+      "release-type": "python",
+      "version-file": "src/pmid_to_citation/version.py",
+      "component": ""
+    }
+  }
+}

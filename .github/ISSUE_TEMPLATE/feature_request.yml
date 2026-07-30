@@ -1,0 +1,36 @@
+name: Feature request
+description: Suggest a new capability or an improvement
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem would this solve?
+      description: Describe the use case rather than a specific implementation.
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposal
+    attributes:
+      label: What would you like to see?
+      description: If you have an API in mind, sketch it here.
+    validations:
+      required: true
+
+  - type: textarea
+    id: style-reference
+    attributes:
+      label: For a new citation style, where is it specified?
+      description: >
+        Link the publisher's author guidelines, and give two or three worked
+        examples (a journal article, a preprint, and one with many authors).
+    validations:
+      required: false
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives you have considered
+    validations:
+      required: false

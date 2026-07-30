@@ -1,0 +1,21 @@
+version: 2
+
+build:
+  os: ubuntu-24.04
+  tools:
+    # Must satisfy `requires-python` in pyproject.toml, otherwise the
+    # `uv sync` below cannot install the project itself.
+    python: "3.13"
+  jobs:
+    post_install:
+      - pip install uv
+      - UV_PROJECT_ENVIRONMENT=$READTHEDOCS_VIRTUALENV_PATH uv sync --locked --all-groups --link-mode=copy
+
+# Build documentation in the docs/ directory with Sphinx
+sphinx:
+  configuration: docs/conf.py
+
+# Set the formats you want to build. Defaults to htmlzip and pdf.
+formats:
+  - htmlzip
+  - epub

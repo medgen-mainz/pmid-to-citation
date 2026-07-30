@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+title: "pmid-to-citation: PubMed citations from the NCBI Entrez API as reference text"
+message: "If you use this software, please cite it using these metadata."
+type: software
+authors:
+  - family-names: Holtgrewe
+    given-names: Manuel
+    email: manuel.holtgrewe@medgen-mainz.de
+    affiliation: "Limbach Genetics eGbR, Medizinische Genetik Mainz"
+repository-code: "https://github.com/medgen-mainz/pmid-to-citation"
+url: "https://pmid-to-citation.readthedocs.io/en/latest/"
+abstract: >-
+  pmid-to-citation fetches PubMed records from the NCBI Entrez API by PMID,
+  validates them into type-annotated models, and renders them as
+  citation/reference text (initially in Nature style).
+keywords:
+  - bibliography
+  - citation
+  - Entrez
+  - NCBI
+  - PubMed
+  - reference management
+license: MIT

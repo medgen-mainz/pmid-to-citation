@@ -1,0 +1,61 @@
+# Editor cruft
+*~
+.*.sw?
+.vscode
+.idea/
+
+# Profile stuff
+*.prof
+
+# Byte-compiled / optimized / DLL files
+.venv
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+dist-from-sdist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+coverage.xml
+.cache
+.hypothesis/
+.pytest_cache/
+.ruff_cache/
+
+# Sphinx documentation
+docs/_build/
+
+# Translations
+*.mo
+*.pot
+
+# Logs
+*.log
