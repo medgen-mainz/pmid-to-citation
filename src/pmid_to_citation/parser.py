@@ -36,10 +36,17 @@ from pmid_to_citation.models import (
     Substance,
 )
 
-__all__ = ["parse_medline", "parse_medline_file"]
+__all__ = ["parse_medline", "parse_medline_file", "parse_medline_records"]
 
 # A field tag is one to four capitals, then a hyphen, then the value.
 _FIELD_LINE = re.compile(r"^([A-Z]{1,4})\s*-\s*(.*)")
+
+# A record in a multi-record payload starts with an unindented PMID field, which
+# MEDLINE always emits first. Blank lines are not a usable delimiter: Entrez puts
+# one before the first record, and nothing in the format forbids one inside a
+# value, whereas a continuation line is always indented and so can never be
+# mistaken for a record boundary.
+_RECORD_START = re.compile(r"^PMID\s*-")
 
 _ISSN_FIELD = re.compile(r"^([0-9]{4}-[0-9]{3}[0-9X])\s*(?:\(([^)]+)\))?")
 
@@ -495,6 +502,61 @@ def parse_medline(text: str) -> PubMedRecord:
         'A short paper.'
     """
     return _parse_lines(text.splitlines())
+
+
+def _split_records(text: str) -> list[str]:
+    """Split a payload holding any number of MEDLINE records.
+
+    Args:
+        text: One or more records, as Entrez returns them for a multi-PMID
+            request. A leading blank line is expected and ignored — Entrez sends
+            one — as are blank lines between records.
+
+    Returns:
+        One string per record, in the order they appeared. An empty payload gives
+        an empty list, which is how Entrez reports that it knew none of the PMIDs.
+
+    Raises:
+        RecordParseError: If non-blank content appears before the first record.
+    """
+    records: list[list[str]] = []
+    for line_number, line in enumerate(text.splitlines(), 1):
+        if _RECORD_START.match(line):
+            records.append([line])
+        elif records:
+            records[-1].append(line)
+        elif line.strip():
+            raise RecordParseError(f"content before the first record: {line!r}", line_number=line_number)
+    return ["\n".join(lines) for lines in records]
+
+
+def parse_medline_records(text: str) -> list[PubMedRecord]:
+    r"""Parse a payload holding any number of MEDLINE records.
+
+    Use this for the response to a multi-PMID request. Unlike
+    :func:`parse_medline`, each record must begin with its ``PMID`` field, since
+    that is what delimits one record from the next.
+
+    Args:
+        text: One or more records, as Entrez returns them.
+
+    Returns:
+        The parsed records, in the order they appeared. Entrez omits PMIDs it does
+        not know rather than reporting them, so this may be shorter than the
+        request — compare the PMIDs you asked for against the ones you got back.
+
+    Raises:
+        RecordParseError: If non-blank content appears before the first record, or
+            if any individual record cannot be parsed.
+
+    Examples:
+        >>> text = "\nPMID- 1\nTI  - First.\n\nPMID- 2\nTI  - Second.\n"
+        >>> [record.pmid for record in parse_medline_records(text)]
+        [1, 2]
+        >>> parse_medline_records("")
+        []
+    """
+    return [_parse_lines(record.splitlines()) for record in _split_records(text)]
 
 
 def parse_medline_file(path: Path | str) -> PubMedRecord:

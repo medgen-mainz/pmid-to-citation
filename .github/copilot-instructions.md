@@ -51,8 +51,12 @@ a pure-Python dependency tree even though the wheel itself is pure Python.
 - Entrez has rules, and code that ignores them gets the caller's IP blocked:
   send a `tool` and `email` parameter, keep to at most 3 requests per second
   without an API key, and support `NCBI_API_KEY` where one is available.
-- Batch requests where the API allows it — `efetch` accepts several PMIDs in one
-  call, and issuing N single-PMID requests instead is a bug, not a style choice.
+- Batch requests where the API allows it. `EntrezClient.get_records` already
+  does: it chunks at `batch_size`, switches to POST for long lists, and paces
+  requests through `_RateLimiter`. Adding a code path that issues N single-PMID
+  requests instead is a bug, not a style choice.
+- Entrez omits PMIDs it does not know rather than reporting them, so a batch
+  result is keyed by the PMID found in each record — never by request order.
 
 ## Structure
 

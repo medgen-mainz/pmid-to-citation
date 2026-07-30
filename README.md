@@ -61,6 +61,35 @@ async with EntrezClient(tool="my-app", email="me@example.org") as client:
 An `NCBI_API_KEY` in the environment is picked up automatically; it raises the
 rate limit from 3 to 10 requests per second.
 
+### Many PMIDs at once
+
+EFetch accepts many identifiers per call, so fetching a reference list costs a
+handful of requests rather than one per PMID:
+
+```python
+from pmid_to_citation import fetch_citations
+
+wanted = [1, 31341288, 35642643]
+citations = await fetch_citations(wanted, tool="my-app", email="me@example.org")
+```
+
+`fetch_records` and `EntrezClient.get_records` do the same for records. All three
+return a **mapping keyed by PMID**, and batch requests concurrently at the rate
+the Entrez guidelines permit.
+
+**PMIDs that Entrez does not know are absent from the result rather than raising.**
+Entrez omits them silently, and one retracted or mistyped identifier should not
+defeat a request for hundreds:
+
+```python
+records = await fetch_records(wanted, tool="my-app", email="me@example.org")
+missing = [pmid for pmid in wanted if pmid not in records]
+```
+
+Identifiers are split into batches of `batch_size` (200 by default); raising it
+switches those requests to POST, as NCBI asks for long lists. Duplicates are
+requested once.
+
 **2. Record models** — validated, normalised models of a PubMed record, with no
 knowledge of HTTP or of output formats. Parse text you obtained anywhere:
 
@@ -69,6 +98,7 @@ from pmid_to_citation import parse_medline, parse_medline_file
 
 record = parse_medline(raw)
 record = parse_medline_file("record.txt")
+records = parse_medline_records(multi_record_text)  # a multi-PMID response
 
 record.title       # 'Formate assay in body fluids: application in methanol poisoning.'
 record.authors[0]  # Author(last_name='Makar', initials='AB', ...)
