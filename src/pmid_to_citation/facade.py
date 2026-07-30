@@ -6,11 +6,13 @@ obtained elsewhere with :func:`~pmid_to_citation.parser.parse_medline`, or rende
 one with :class:`~pmid_to_citation.formatter.CitationFormatter`.
 """
 
+from collections.abc import Iterable
+
 from pmid_to_citation.client import EntrezClient
 from pmid_to_citation.formatter import CitationFormatter, CitationStyle
 from pmid_to_citation.models import PubMedRecord
 
-__all__ = ["fetch_citation", "fetch_record"]
+__all__ = ["fetch_citation", "fetch_citations", "fetch_record", "fetch_records"]
 
 
 async def fetch_record(pmid: int, *, tool: str, email: str, api_key: str | None = None) -> PubMedRecord:
@@ -68,3 +70,64 @@ async def fetch_citation(
     """
     record = await fetch_record(pmid, tool=tool, email=email, api_key=api_key)
     return CitationFormatter(style).format_citation(record)
+
+
+async def fetch_records(
+    pmids: Iterable[int],
+    *,
+    tool: str,
+    email: str,
+    api_key: str | None = None,
+) -> dict[int, PubMedRecord]:
+    """Fetch and parse records for many PMIDs, several per request.
+
+    Args:
+        pmids: The PubMed identifiers to fetch.
+        tool: Short name of the application making the request.
+        email: Address NCBI can use to reach whoever runs it.
+        api_key: An NCBI API key. Defaults to the ``NCBI_API_KEY`` environment
+            variable when that is set.
+
+    Returns:
+        The records, keyed by PMID. PMIDs Entrez does not know are absent — see
+        :meth:`~pmid_to_citation.client.EntrezClient.get_records`.
+
+    Raises:
+        EntrezError: If Entrez cannot be reached or reports a failure.
+        RecordParseError: If a response is not made of MEDLINE records.
+    """
+    async with EntrezClient(tool=tool, email=email, api_key=api_key) as client:
+        return await client.get_records(pmids)
+
+
+async def fetch_citations(
+    pmids: Iterable[int],
+    *,
+    tool: str,
+    email: str,
+    api_key: str | None = None,
+    style: CitationStyle = CitationStyle.NATURE,
+) -> dict[int, str]:
+    """Fetch many records and render each as a citation.
+
+    Args:
+        pmids: The PubMed identifiers to fetch.
+        tool: Short name of the application making the request.
+        email: Address NCBI can use to reach whoever runs it.
+        api_key: An NCBI API key. Defaults to the ``NCBI_API_KEY`` environment
+            variable when that is set.
+        style: The citation style to render in.
+
+    Returns:
+        The citations as HTML fragments, keyed by PMID. PMIDs Entrez does not know
+        are absent. See :class:`~pmid_to_citation.formatter.CitationFormatter` on
+        the markup.
+
+    Raises:
+        EntrezError: If Entrez cannot be reached or reports a failure.
+        RecordParseError: If a response is not made of MEDLINE records.
+        UnknownStyleError: If no definition is installed for ``style``.
+    """
+    records = await fetch_records(pmids, tool=tool, email=email, api_key=api_key)
+    citations = CitationFormatter(style).format_citations(list(records.values()))
+    return dict(zip(records, citations, strict=True))

@@ -40,3 +40,25 @@ def medline_text(filename: str) -> str:
         The file's contents.
     """
     return (MEDLINE_DIR / filename).read_text(encoding="utf-8")
+
+
+def multi_record_text(*filenames: str) -> str:
+    """Assemble a multi-record payload from recorded single-record responses.
+
+    Each recorded response already begins with the blank line Entrez emits, so
+    concatenating them reproduces the layout of a multi-PMID response: a blank
+    line, a record, a blank line, the next record.
+
+    This is *assembled* rather than recorded, because a fixture can only be
+    recorded by someone with a contact address to identify the request with. The
+    assumption that it matches what Entrez really sends is asserted directly
+    against the live API by the ``network``-marked tests.
+
+    Args:
+        filenames: Basenames of files in ``tests/data/medline``, in the order the
+            records should appear.
+
+    Returns:
+        The assembled payload.
+    """
+    return "".join(medline_text(filename) for filename in filenames)
