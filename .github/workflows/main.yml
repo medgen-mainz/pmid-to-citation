@@ -56,11 +56,11 @@ jobs:
 
       - name: Run Lint
         run: |
-          uv run --no-sync ruff format --check --diff src tests docs
-          uv run --no-sync ruff check src tests docs
+          uv run --no-sync ruff format --check --diff src tests docs scripts
+          uv run --no-sync ruff check src tests docs scripts
 
       - name: Run Type Checks
-        run: uv run --no-sync pyright src tests docs
+        run: uv run --no-sync pyright src tests docs scripts
 
   testing:
     runs-on: ${{ matrix.os }}
@@ -156,7 +156,11 @@ jobs:
           uv pip install --python /tmp/smoke/bin/python dist-from-sdist/*.whl
           /tmp/smoke/bin/python -c "
           import pmid_to_citation, pathlib
-          assert (pathlib.Path(pmid_to_citation.__file__).parent / 'py.typed').is_file(), 'py.typed missing from wheel'
+          root = pathlib.Path(pmid_to_citation.__file__).parent
+          assert (root / 'py.typed').is_file(), 'py.typed missing from wheel'
+          assert (root / 'styles' / 'nature.csl').is_file(), 'CSL styles missing from wheel'
+          record = pmid_to_citation.PubMedRecord(pmid=1, title='A paper')
+          print(pmid_to_citation.CitationFormatter().format_citation(record))
           print('package OK:', pmid_to_citation.__version__)
           "
 

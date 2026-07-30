@@ -1,0 +1,1893 @@
+
+PMID- 26432245
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20151026
+LR  - 20250529
+IS  - 1476-4687 (Electronic)
+IS  - 0028-0836 (Print)
+IS  - 0028-0836 (Linking)
+VI  - 526
+IP  - 7571
+DP  - 2015 Oct 1
+TI  - A global reference for human genetic variation.
+PG  - 68-74
+LID - 10.1038/nature15393 [doi]
+AB  - The 1000 Genomes Project set out to provide a comprehensive description of common 
+      human genetic variation by applying whole-genome sequencing to a diverse set of 
+      individuals from multiple populations. Here we report completion of the project, 
+      having reconstructed the genomes of 2,504 individuals from 26 populations using a 
+      combination of low-coverage whole-genome sequencing, deep exome sequencing, and 
+      dense microarray genotyping. We characterized a broad spectrum of genetic 
+      variation, in total over 88 million variants (84.7 million single nucleotide 
+      polymorphisms (SNPs), 3.6 million short insertions/deletions (indels), and 60,000 
+      structural variants), all phased onto high-quality haplotypes. This resource 
+      includes >99% of SNP variants with a frequency of >1% for a variety of 
+      ancestries. We describe the distribution of genetic variation across the global 
+      sample, and discuss the implications for common disease studies.
+CN  - 1000 Genomes Project Consortium
+FAU - Auton, Adam
+AU  - Auton A
+FAU - Brooks, Lisa D
+AU  - Brooks LD
+FAU - Durbin, Richard M
+AU  - Durbin RM
+FAU - Garrison, Erik P
+AU  - Garrison EP
+FAU - Kang, Hyun Min
+AU  - Kang HM
+FAU - Korbel, Jan O
+AU  - Korbel JO
+FAU - Marchini, Jonathan L
+AU  - Marchini JL
+FAU - McCarthy, Shane
+AU  - McCarthy S
+FAU - McVean, Gil A
+AU  - McVean GA
+FAU - Abecasis, Goncalo R
+AU  - Abecasis GR
+LA  - eng
+GR  - R01HG7068/HG/NHGRI NIH HHS/United States
+GR  - R01HG6855/HG/NHGRI NIH HHS/United States
+GR  - T32 HL094284/HL/NHLBI NIH HHS/United States
+GR  - R01 HL087699/HL/NHLBI NIH HHS/United States
+GR  - 090532/Z/09/Z/WT_/Wellcome Trust/United Kingdom
+GR  - T32 GM007790/GM/NIGMS NIH HHS/United States
+GR  - R01HG4960/HG/NHGRI NIH HHS/United States
+GR  - R01 HG002898/HG/NHGRI NIH HHS/United States
+GR  - R01 GM108805/GM/NIGMS NIH HHS/United States
+GR  - U01HG5718/HG/NHGRI NIH HHS/United States
+GR  - 136855/CAPMC/CIHR/Canada
+GR  - R01CA172652/CA/NCI NIH HHS/United States
+GR  - R01 HG004960/HG/NHGRI NIH HHS/United States
+GR  - 095552/Z/11/Z/WT_/Wellcome Trust/United Kingdom
+GR  - R01GM104390/GM/NIGMS NIH HHS/United States
+GR  - R01 HG007068/HG/NHGRI NIH HHS/United States
+GR  - U54 HG003067/HG/NHGRI NIH HHS/United States
+GR  - U01 HG005718/HG/NHGRI NIH HHS/United States
+GR  - R01 CA172652/CA/NCI NIH HHS/United States
+GR  - BB/I02593X/1/BB_/Biotechnology and Biological Sciences Research Council/United 
+      Kingdom
+GR  - WT097307/WT_/Wellcome Trust/United Kingdom
+GR  - U41 HG002371/HG/NHGRI NIH HHS/United States
+GR  - 102541/WT_/Wellcome Trust/United Kingdom
+GR  - U41 HG007635/HG/NHGRI NIH HHS/United States
+GR  - DP5OD9154/OD/NIH HHS/United States
+GR  - R01HG2898/HG/NHGRI NIH HHS/United States
+GR  - BHF_/British Heart Foundation/United Kingdom
+GR  - DP2OD6514/OD/NIH HHS/United States
+GR  - U41HG7497/HG/NHGRI NIH HHS/United States
+GR  - RC2 HG005552/HG/NHGRI NIH HHS/United States
+GR  - R01HG5214/HG/NHGRI NIH HHS/United States
+GR  - U01 HG006513/HG/NHGRI NIH HHS/United States
+GR  - U41 HG007497/HG/NHGRI NIH HHS/United States
+GR  - U01HG5715/HG/NHGRI NIH HHS/United States
+GR  - R01GM59290/GM/NIGMS NIH HHS/United States
+GR  - P01 GM099568/GM/NIGMS NIH HHS/United States
+GR  - U01 HG005211/HG/NHGRI NIH HHS/United States
+GR  - WT090770/Z/09/Z/WT_/Wellcome Trust/United Kingdom
+GR  - U01 HG005214/HG/NHGRI NIH HHS/United States
+GR  - HHMI/Howard Hughes Medical Institute/United States
+GR  - HHSN272201000025C/AI/NIAID NIH HHS/United States
+GR  - U41HG7635/HG/NHGRI NIH HHS/United States
+GR  - R01 DK075787/DK/NIDDK NIH HHS/United States
+GR  - P01GM99568/GM/NIGMS NIH HHS/United States
+GR  - U54 HG003273/HG/NHGRI NIH HHS/United States
+GR  - R01 HG007644/HG/NHGRI NIH HHS/United States
+GR  - U01 HG005728/HG/NHGRI NIH HHS/United States
+GR  - T32GM7790/GM/NIGMS NIH HHS/United States
+GR  - 096599/WT_/Wellcome Trust/United Kingdom
+GR  - 100956/WT_/Wellcome Trust/United Kingdom
+GR  - U01 HG005715/HG/NHGRI NIH HHS/United States
+GR  - R01HL104608/HL/NHLBI NIH HHS/United States
+GR  - U01HG5211/HG/NHGRI NIH HHS/United States
+GR  - U01HG6513/HG/NHGRI NIH HHS/United States
+GR  - U54HG3079/HG/NHGRI NIH HHS/United States
+GR  - U01HG5214/HG/NHGRI NIH HHS/United States
+GR  - R01 GM104390/GM/NIGMS NIH HHS/United States
+GR  - WT100956/Z/13/Z/WT_/Wellcome Trust/United Kingdom
+GR  - R01 GM059290/GM/NIGMS NIH HHS/United States
+GR  - WT109497/WT_/Wellcome Trust/United Kingdom
+GR  - 095908/WT_/Wellcome Trust/United Kingdom
+GR  - R01 HL104608/HL/NHLBI NIH HHS/United States
+GR  - R01 HG006855/HG/NHGRI NIH HHS/United States
+GR  - R01 CA166661/CA/NCI NIH HHS/United States
+GR  - U54 HG003079/HG/NHGRI NIH HHS/United States
+GR  - R01 HG005701/HG/NHGRI NIH HHS/United States
+GR  - 090770/WT_/Wellcome Trust/United Kingdom
+GR  - U01HG5728/HG/NHGRI NIH HHS/United States
+GR  - HHSN268201100040C/HL/NHLBI NIH HHS/United States
+GR  - R01CA166661/CA/NCI NIH HHS/United States
+GR  - R01 GM113657/GM/NIGMS NIH HHS/United States
+GR  - RC2HG5552/HG/NHGRI NIH HHS/United States
+GR  - R01 HG007022/HG/NHGRI NIH HHS/United States
+GR  - 617306/ERC_/European Research Council/International
+GR  - U54HG3067/HG/NHGRI NIH HHS/United States
+GR  - WT0855322/Z/08/Z/WT_/Wellcome Trust/United Kingdom
+GR  - DP5 OD009154/OD/NIH HHS/United States
+GR  - R01 HG002385/HG/NHGRI NIH HHS/United States
+GR  - DP2 OD006514/OD/NIH HHS/United States
+GR  - R01HL87699/HL/NHLBI NIH HHS/United States
+GR  - R01HG5701/HG/NHGRI NIH HHS/United States
+GR  - T32HL94284/HL/NHLBI NIH HHS/United States
+GR  - 089276/Z.09/Z/WT_/Wellcome Trust/United Kingdom
+GR  - R01HG2385/HG/NHGRI NIH HHS/United States
+GR  - U54HG3273/HG/NHGRI NIH HHS/United States
+GR  - WT098051/WT_/Wellcome Trust/United Kingdom
+GR  - G0801823/MRC_/Medical Research Council/United Kingdom
+GR  - R01HG7644/HG/NHGRI NIH HHS/United States
+GR  - WT086084/Z/08/Z/WT_/Wellcome Trust/United Kingdom
+GR  - BB/I021213/1/BB_/Biotechnology and Biological Sciences Research Council/United 
+      Kingdom
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+PL  - England
+TA  - Nature
+JT  - Nature
+JID - 0410462
+SB  - IM
+CIN - Nature. 2015 Oct 1;526(7571):52-3. doi: 10.1038/526052a. PMID: 26432243
+MH  - Datasets as Topic
+MH  - Demography
+MH  - Disease Susceptibility
+MH  - Exome/genetics
+MH  - Genetic Variation/*genetics
+MH  - Genetics, Medical
+MH  - Genetics, Population/*standards
+MH  - Genome, Human/*genetics
+MH  - Genome-Wide Association Study
+MH  - Genomics/*standards
+MH  - Genotype
+MH  - Haplotypes/genetics
+MH  - High-Throughput Nucleotide Sequencing
+MH  - Humans
+MH  - INDEL Mutation/genetics
+MH  - *Internationality
+MH  - Physical Chromosome Mapping
+MH  - Polymorphism, Single Nucleotide/genetics
+MH  - Quantitative Trait Loci/genetics
+MH  - Rare Diseases/genetics
+MH  - Reference Standards
+MH  - Sequence Analysis, DNA
+PMC - PMC4750478
+MID - NIHMS753481
+COIS- D.M.A. is affiliated with Vertex Pharmaceuticals, E.A. is on the speaker's bureau 
+      for Illumina, P.A. is an advisor to Illumina and Ancestry.com, D.R.B., B.B., 
+      M.B., R.K.C., A.C., M.E., S.H., S.K., L.M., J.P. and R.S. are affiliated with 
+      Illumina, J.K.B. is affiliated with Ancestry.com, A.C. is on the Science Advisory 
+      Board of Biogen Idec. and the scientific advisory board of Affymetrix, A.W.C. is 
+      affiliated with DNAnexus, D.C. is affiliated with Personalis, C.J.D., J.G., 
+      J.P.S., T.W., B.W., and Y.Z. are affiliated with Affymetrix, E.T.D. is an advisor 
+      for DNAnexus, F.M.D.L.V. is employed by Real Time Genomics, M.A.D. is affiliated 
+      with SynapDx, P.D. is a co-founder and director of Genomics, and a partner in 
+      Peptide Groove, R.D. is a founder of Congenica and a consultant for Dovetail, 
+      E.E.E. is on the scientific advisory board of DNAnexus, and is a consultant for 
+      Kunming University of Science and Technology as part of the 1000 China Talent 
+      Program, P.F. is a member of the scientific advisory board of Omicia, M.G. is an 
+      advisor to Bina and DNAnexus, F.C.L.H. is affiliated with ThermoFisher 
+      Scientific, N.H. is affiliated with Life Technologies, C.L. is a scientific 
+      advisor for BioNano Genomics, H.Y.K.L. is affiliated with Bina Technologies which 
+      is part of Roche Sequencing, E.R.M. holds shares in Life Technologies, and G.M. 
+      is a co-founder of Genomics and a partner in Peptide Groove.
+FIR - Auton, Adam
+IR  - Auton A
+FIR - Abecasis, Goncalo R
+IR  - Abecasis GR
+FIR - Altshuler, David M
+IR  - Altshuler DM
+FIR - Durbin, Richard M
+IR  - Durbin RM
+FIR - Abecasis, Goncalo R
+IR  - Abecasis GR
+FIR - Bentley, David R
+IR  - Bentley DR
+FIR - Chakravarti, Aravinda
+IR  - Chakravarti A
+FIR - Clark, Andrew G
+IR  - Clark AG
+FIR - Donnelly, Peter
+IR  - Donnelly P
+FIR - Eichler, Evan E
+IR  - Eichler EE
+FIR - Flicek, Paul
+IR  - Flicek P
+FIR - Gabriel, Stacey B
+IR  - Gabriel SB
+FIR - Gibbs, Richard A
+IR  - Gibbs RA
+FIR - Green, Eric D
+IR  - Green ED
+FIR - Hurles, Matthew E
+IR  - Hurles ME
+FIR - Knoppers, Bartha M
+IR  - Knoppers BM
+FIR - Korbel, Jan O
+IR  - Korbel JO
+FIR - Lander, Eric S
+IR  - Lander ES
+FIR - Lee, Charles
+IR  - Lee C
+FIR - Lehrach, Hans
+IR  - Lehrach H
+FIR - Mardis, Elaine R
+IR  - Mardis ER
+FIR - Marth, Gabor T
+IR  - Marth GT
+FIR - McVean, Gil A
+IR  - McVean GA
+FIR - Nickerson, Deborah A
+IR  - Nickerson DA
+FIR - Schmidt, Jeanette P
+IR  - Schmidt JP
+FIR - Sherry, Stephen T
+IR  - Sherry ST
+FIR - Wang, Jun
+IR  - Wang J
+FIR - Wilson, Richard K
+IR  - Wilson RK
+FIR - Gibbs, Richard A
+IR  - Gibbs RA
+FIR - Boerwinkle, Eric
+IR  - Boerwinkle E
+FIR - Doddapaneni, Harsha
+IR  - Doddapaneni H
+FIR - Han, Yi
+IR  - Han Y
+FIR - Korchina, Viktoriya
+IR  - Korchina V
+FIR - Kovar, Christie
+IR  - Kovar C
+FIR - Lee, Sandra
+IR  - Lee S
+FIR - Muzny, Donna
+IR  - Muzny D
+FIR - Reid, Jeffrey G
+IR  - Reid JG
+FIR - Zhu, Yiming
+IR  - Zhu Y
+FIR - Wang, Jun
+IR  - Wang J
+FIR - Chang, Yuqi
+IR  - Chang Y
+FIR - Feng, Qiang
+IR  - Feng Q
+FIR - Fang, Xiaodong
+IR  - Fang X
+FIR - Guo, Xiaosen
+IR  - Guo X
+FIR - Jian, Min
+IR  - Jian M
+FIR - Jiang, Hui
+IR  - Jiang H
+FIR - Jin, Xin
+IR  - Jin X
+FIR - Lan, Tianming
+IR  - Lan T
+FIR - Li, Guoqing
+IR  - Li G
+FIR - Li, Jingxiang
+IR  - Li J
+FIR - Li, Yingrui
+IR  - Li Y
+FIR - Liu, Shengmao
+IR  - Liu S
+FIR - Liu, Xiao
+IR  - Liu X
+FIR - Lu, Yao
+IR  - Lu Y
+FIR - Ma, Xuedi
+IR  - Ma X
+FIR - Tang, Meifang
+IR  - Tang M
+FIR - Wang, Bo
+IR  - Wang B
+FIR - Wang, Guangbiao
+IR  - Wang G
+FIR - Wu, Honglong
+IR  - Wu H
+FIR - Wu, Renhua
+IR  - Wu R
+FIR - Xu, Xun
+IR  - Xu X
+FIR - Yin, Ye
+IR  - Yin Y
+FIR - Zhang, Dandan
+IR  - Zhang D
+FIR - Zhang, Wenwei
+IR  - Zhang W
+FIR - Zhao, Jiao
+IR  - Zhao J
+FIR - Zhao, Meiru
+IR  - Zhao M
+FIR - Zheng, Xiaole
+IR  - Zheng X
+FIR - Lander, Eric S
+IR  - Lander ES
+FIR - Altshuler, David M
+IR  - Altshuler DM
+FIR - Gabriel, Stacey B
+IR  - Gabriel SB
+FIR - Gupta, Namrata
+IR  - Gupta N
+FIR - Gharani, Neda
+IR  - Gharani N
+FIR - Toji, Lorraine H
+IR  - Toji LH
+FIR - Gerry, Norman P
+IR  - Gerry NP
+FIR - Resch, Alissa M
+IR  - Resch AM
+FIR - Flicek, Paul
+IR  - Flicek P
+FIR - Barker, Jonathan
+IR  - Barker J
+FIR - Clarke, Laura
+IR  - Clarke L
+FIR - Gil, Laurent
+IR  - Gil L
+FIR - Hunt, Sarah E
+IR  - Hunt SE
+FIR - Kelman, Gavin
+IR  - Kelman G
+FIR - Kulesha, Eugene
+IR  - Kulesha E
+FIR - Leinonen, Rasko
+IR  - Leinonen R
+FIR - McLaren, William M
+IR  - McLaren WM
+FIR - Radhakrishnan, Rajesh
+IR  - Radhakrishnan R
+FIR - Roa, Asier
+IR  - Roa A
+FIR - Smirnov, Dmitriy
+IR  - Smirnov D
+FIR - Smith, Richard E
+IR  - Smith RE
+FIR - Streeter, Ian
+IR  - Streeter I
+FIR - Thormann, Anja
+IR  - Thormann A
+FIR - Toneva, Iliana
+IR  - Toneva I
+FIR - Vaughan, Brendan
+IR  - Vaughan B
+FIR - Zheng-Bradley, Xiangqun
+IR  - Zheng-Bradley X
+FIR - Bentley, David R
+IR  - Bentley DR
+FIR - Grocock, Russell
+IR  - Grocock R
+FIR - Humphray, Sean
+IR  - Humphray S
+FIR - James, Terena
+IR  - James T
+FIR - Kingsbury, Zoya
+IR  - Kingsbury Z
+FIR - Lehrach, Hans
+IR  - Lehrach H
+FIR - Sudbrak, Ralf
+IR  - Sudbrak R
+FIR - Albrecht, Marcus W
+IR  - Albrecht MW
+FIR - Amstislavskiy, Vyacheslav S
+IR  - Amstislavskiy VS
+FIR - Borodina, Tatiana A
+IR  - Borodina TA
+FIR - Lienhard, Matthias
+IR  - Lienhard M
+FIR - Mertes, Florian
+IR  - Mertes F
+FIR - Sultan, Marc
+IR  - Sultan M
+FIR - Timmermann, Bernd
+IR  - Timmermann B
+FIR - Yaspo, Marie-Laure
+IR  - Yaspo ML
+FIR - Mardis, Elaine R
+IR  - Mardis ER
+FIR - Wilson, Richard K
+IR  - Wilson RK
+FIR - Fulton, Lucinda
+IR  - Fulton L
+FIR - Fulton, Robert
+IR  - Fulton R
+FIR - Sherry, Stephen T
+IR  - Sherry ST
+FIR - Ananiev, Victor
+IR  - Ananiev V
+FIR - Belaia, Zinaida
+IR  - Belaia Z
+FIR - Beloslyudtsev, Dimitriy
+IR  - Beloslyudtsev D
+FIR - Bouk, Nathan
+IR  - Bouk N
+FIR - Chen, Chao
+IR  - Chen C
+FIR - Church, Deanna
+IR  - Church D
+FIR - Cohen, Robert
+IR  - Cohen R
+FIR - Cook, Charles
+IR  - Cook C
+FIR - Garner, John
+IR  - Garner J
+FIR - Hefferon, Timothy
+IR  - Hefferon T
+FIR - Kimelman, Mikhail
+IR  - Kimelman M
+FIR - Liu, Chunlei
+IR  - Liu C
+FIR - Lopez, John
+IR  - Lopez J
+FIR - Meric, Peter
+IR  - Meric P
+FIR - O'Sullivan, Chris
+IR  - O'Sullivan C
+FIR - Ostapchuk, Yuri
+IR  - Ostapchuk Y
+FIR - Phan, Lon
+IR  - Phan L
+FIR - Ponomarov, Sergiy
+IR  - Ponomarov S
+FIR - Schneider, Valerie
+IR  - Schneider V
+FIR - Shekhtman, Eugene
+IR  - Shekhtman E
+FIR - Sirotkin, Karl
+IR  - Sirotkin K
+FIR - Slotta, Douglas
+IR  - Slotta D
+FIR - Zhang, Hua
+IR  - Zhang H
+FIR - McVean, Gil A
+IR  - McVean GA
+FIR - Durbin, Richard M
+IR  - Durbin RM
+FIR - Balasubramaniam, Senduran
+IR  - Balasubramaniam S
+FIR - Burton, John
+IR  - Burton J
+FIR - Danecek, Petr
+IR  - Danecek P
+FIR - Keane, Thomas M
+IR  - Keane TM
+FIR - Kolb-Kokocinski, Anja
+IR  - Kolb-Kokocinski A
+FIR - McCarthy, Shane
+IR  - McCarthy S
+FIR - Stalker, James
+IR  - Stalker J
+FIR - Quail, Michael
+IR  - Quail M
+FIR - Durbin, Richard M
+IR  - Durbin RM
+FIR - Balasubramaniam, Senduran
+IR  - Balasubramaniam S
+FIR - Burton, John
+IR  - Burton J
+FIR - Danecek, Petr
+IR  - Danecek P
+FIR - Keane, Thomas M
+IR  - Keane TM
+FIR - Kolb-Kokocinski, Anja
+IR  - Kolb-Kokocinski A
+FIR - McCarthy, Shane
+IR  - McCarthy S
+FIR - Stalker, James
+IR  - Stalker J
+FIR - Quail, Michael
+IR  - Quail M
+FIR - Schmidt, Jeanette P
+IR  - Schmidt JP
+FIR - Davies, Christopher J
+IR  - Davies CJ
+FIR - Gollub, Jeremy
+IR  - Gollub J
+FIR - Webster, Teresa
+IR  - Webster T
+FIR - Wong, Brant
+IR  - Wong B
+FIR - Zhan, Yiping
+IR  - Zhan Y
+FIR - Auton, Adam
+IR  - Auton A
+FIR - Campbell, Christopher L
+IR  - Campbell CL
+FIR - Kong, Yu
+IR  - Kong Y
+FIR - Marcketta, Anthony
+IR  - Marcketta A
+FIR - Gibbs, Richard A
+IR  - Gibbs RA
+FIR - Yu, Fuli
+IR  - Yu F
+FIR - Antunes, Lilian
+IR  - Antunes L
+FIR - Bainbridge, Matthew
+IR  - Bainbridge M
+FIR - Muzny, Donna
+IR  - Muzny D
+FIR - Sabo, Aniko
+IR  - Sabo A
+FIR - Huang, Zhuoyi
+IR  - Huang Z
+FIR - Wang, Jun
+IR  - Wang J
+FIR - Coin, Lachlan J M
+IR  - Coin LJ
+FIR - Fang, Lin
+IR  - Fang L
+FIR - Guo, Xiaosen
+IR  - Guo X
+FIR - Jin, Xin
+IR  - Jin X
+FIR - Li, Guoqing
+IR  - Li G
+FIR - Li, Qibin
+IR  - Li Q
+FIR - Li, Yingrui
+IR  - Li Y
+FIR - Li, Zhenyu
+IR  - Li Z
+FIR - Lin, Haoxiang
+IR  - Lin H
+FIR - Liu, Binghang
+IR  - Liu B
+FIR - Luo, Ruibang
+IR  - Luo R
+FIR - Shao, Haojing
+IR  - Shao H
+FIR - Xie, Yinlong
+IR  - Xie Y
+FIR - Ye, Chen
+IR  - Ye C
+FIR - Yu, Chang
+IR  - Yu C
+FIR - Zhang, Fan
+IR  - Zhang F
+FIR - Zheng, Hancheng
+IR  - Zheng H
+FIR - Zhu, Hongmei
+IR  - Zhu H
+FIR - Alkan, Can
+IR  - Alkan C
+FIR - Dal, Elif
+IR  - Dal E
+FIR - Kahveci, Fatma
+IR  - Kahveci F
+FIR - Marth, Gabor T
+IR  - Marth GT
+FIR - Garrison, Erik P
+IR  - Garrison EP
+FIR - Kural, Deniz
+IR  - Kural D
+FIR - Lee, Wan-Ping
+IR  - Lee WP
+FIR - Leong, Wen Fung
+IR  - Leong WF
+FIR - Stromberg, Michael
+IR  - Stromberg M
+FIR - Ward, Alistair N
+IR  - Ward AN
+FIR - Wu, Jiantao
+IR  - Wu J
+FIR - Zhang, Mengyao
+IR  - Zhang M
+FIR - Daly, Mark J
+IR  - Daly MJ
+FIR - DePristo, Mark A
+IR  - DePristo MA
+FIR - Handsaker, Robert E
+IR  - Handsaker RE
+FIR - Altshuler, David M
+IR  - Altshuler DM
+FIR - Banks, Eric
+IR  - Banks E
+FIR - Bhatia, Gaurav
+IR  - Bhatia G
+FIR - Del Angel, Guillermo
+IR  - Del Angel G
+FIR - Gabriel, Stacey B
+IR  - Gabriel SB
+FIR - Genovese, Giulio
+IR  - Genovese G
+FIR - Gupta, Namrata
+IR  - Gupta N
+FIR - Li, Heng
+IR  - Li H
+FIR - Kashin, Seva
+IR  - Kashin S
+FIR - Lander, Eric S
+IR  - Lander ES
+FIR - McCarroll, Steven A
+IR  - McCarroll SA
+FIR - Nemesh, James C
+IR  - Nemesh JC
+FIR - Poplin, Ryan E
+IR  - Poplin RE
+FIR - Yoon, Seungtai C
+IR  - Yoon SC
+FIR - Lihm, Jayon
+IR  - Lihm J
+FIR - Makarov, Vladimir
+IR  - Makarov V
+FIR - Clark, Andrew G
+IR  - Clark AG
+FIR - Gottipati, Srikanth
+IR  - Gottipati S
+FIR - Keinan, Alon
+IR  - Keinan A
+FIR - Rodriguez-Flores, Juan L
+IR  - Rodriguez-Flores JL
+FIR - Korbel, Jan O
+IR  - Korbel JO
+FIR - Rausch, Tobias
+IR  - Rausch T
+FIR - Fritz, Markus H
+IR  - Fritz MH
+FIR - Stutz, Adrian M
+IR  - Stutz AM
+FIR - Flicek, Paul
+IR  - Flicek P
+FIR - Beal, Kathryn
+IR  - Beal K
+FIR - Clarke, Laura
+IR  - Clarke L
+FIR - Datta, Avik
+IR  - Datta A
+FIR - Herrero, Javier
+IR  - Herrero J
+FIR - McLaren, William M
+IR  - McLaren WM
+FIR - Ritchie, Graham R S
+IR  - Ritchie GR
+FIR - Smith, Richard E
+IR  - Smith RE
+FIR - Zerbino, Daniel
+IR  - Zerbino D
+FIR - Zheng-Bradley, Xiangqun
+IR  - Zheng-Bradley X
+FIR - Sabeti, Pardis C
+IR  - Sabeti PC
+FIR - Shlyakhter, Ilya
+IR  - Shlyakhter I
+FIR - Schaffner, Stephen F
+IR  - Schaffner SF
+FIR - Vitti, Joseph
+IR  - Vitti J
+FIR - Cooper, David N
+IR  - Cooper DN
+FIR - Ball, Edward V
+IR  - Ball EV
+FIR - Stenson, Peter D
+IR  - Stenson PD
+FIR - Bentley, David R
+IR  - Bentley DR
+FIR - Barnes, Bret
+IR  - Barnes B
+FIR - Bauer, Markus
+IR  - Bauer M
+FIR - Cheetham, R Keira
+IR  - Cheetham RK
+FIR - Cox, Anthony
+IR  - Cox A
+FIR - Eberle, Michael
+IR  - Eberle M
+FIR - Humphray, Sean
+IR  - Humphray S
+FIR - Kahn, Scott
+IR  - Kahn S
+FIR - Murray, Lisa
+IR  - Murray L
+FIR - Peden, John
+IR  - Peden J
+FIR - Shaw, Richard
+IR  - Shaw R
+FIR - Kenny, Eimear E
+IR  - Kenny EE
+FIR - Batzer, Mark A
+IR  - Batzer MA
+FIR - Konkel, Miriam K
+IR  - Konkel MK
+FIR - Walker, Jerilyn A
+IR  - Walker JA
+FIR - MacArthur, Daniel G
+IR  - MacArthur DG
+FIR - Lek, Monkol
+IR  - Lek M
+FIR - Sudbrak, Ralf
+IR  - Sudbrak R
+FIR - Amstislavskiy, Vyacheslav S
+IR  - Amstislavskiy VS
+FIR - Herwig, Ralf
+IR  - Herwig R
+FIR - Mardis, Elaine R
+IR  - Mardis ER
+FIR - Ding, Li
+IR  - Ding L
+FIR - Koboldt, Daniel C
+IR  - Koboldt DC
+FIR - Larson, David
+IR  - Larson D
+FIR - Ye, Kai
+IR  - Ye K
+FIR - Gravel, Simon
+IR  - Gravel S
+FIR - Swaroop, Anand
+IR  - Swaroop A
+FIR - Chew, Emily
+IR  - Chew E
+FIR - Lappalainen, Tuuli
+IR  - Lappalainen T
+FIR - Erlich, Yaniv
+IR  - Erlich Y
+FIR - Gymrek, Melissa
+IR  - Gymrek M
+FIR - Willems, Thomas Frederick
+IR  - Willems TF
+FIR - Simpson, Jared T
+IR  - Simpson JT
+FIR - Shriver, Mark D
+IR  - Shriver MD
+FIR - Rosenfeld, Jeffrey A
+IR  - Rosenfeld JA
+FIR - Bustamante, Carlos D
+IR  - Bustamante CD
+FIR - Montgomery, Stephen B
+IR  - Montgomery SB
+FIR - De La Vega, Francisco M
+IR  - De La Vega FM
+FIR - Byrnes, Jake K
+IR  - Byrnes JK
+FIR - Carroll, Andrew W
+IR  - Carroll AW
+FIR - DeGorter, Marianne K
+IR  - DeGorter MK
+FIR - Lacroute, Phil
+IR  - Lacroute P
+FIR - Maples, Brian K
+IR  - Maples BK
+FIR - Martin, Alicia R
+IR  - Martin AR
+FIR - Moreno-Estrada, Andres
+IR  - Moreno-Estrada A
+FIR - Shringarpure, Suyash S
+IR  - Shringarpure SS
+FIR - Zakharia, Fouad
+IR  - Zakharia F
+FIR - Halperin, Eran
+IR  - Halperin E
+FIR - Baran, Yael
+IR  - Baran Y
+FIR - Lee, Charles
+IR  - Lee C
+FIR - Cerveira, Eliza
+IR  - Cerveira E
+FIR - Hwang, Jaeho
+IR  - Hwang J
+FIR - Malhotra, Ankit
+IR  - Malhotra A
+FIR - Plewczynski, Dariusz
+IR  - Plewczynski D
+FIR - Radew, Kamen
+IR  - Radew K
+FIR - Romanovitch, Mallory
+IR  - Romanovitch M
+FIR - Zhang, Chengsheng
+IR  - Zhang C
+FIR - Hyland, Fiona C L
+IR  - Hyland FC
+FIR - Craig, David W
+IR  - Craig DW
+FIR - Christoforides, Alexis
+IR  - Christoforides A
+FIR - Homer, Nils
+IR  - Homer N
+FIR - Izatt, Tyler
+IR  - Izatt T
+FIR - Kurdoglu, Ahmet A
+IR  - Kurdoglu AA
+FIR - Sinari, Shripad A
+IR  - Sinari SA
+FIR - Squire, Kevin
+IR  - Squire K
+FIR - Sherry, Stephen T
+IR  - Sherry ST
+FIR - Xiao, Chunlin
+IR  - Xiao C
+FIR - Sebat, Jonathan
+IR  - Sebat J
+FIR - Antaki, Danny
+IR  - Antaki D
+FIR - Gujral, Madhusudan
+IR  - Gujral M
+FIR - Noor, Amina
+IR  - Noor A
+FIR - Ye, Kenny
+IR  - Ye K
+FIR - Burchard, Esteban G
+IR  - Burchard EG
+FIR - Hernandez, Ryan D
+IR  - Hernandez RD
+FIR - Gignoux, Christopher R
+IR  - Gignoux CR
+FIR - Haussler, David
+IR  - Haussler D
+FIR - Katzman, Sol J
+IR  - Katzman SJ
+FIR - Kent, W James
+IR  - Kent WJ
+FIR - Howie, Bryan
+IR  - Howie B
+FIR - Ruiz-Linares, Andres
+IR  - Ruiz-Linares A
+FIR - Dermitzakis, Emmanouil T
+IR  - Dermitzakis ET
+FIR - Devine, Scott E
+IR  - Devine SE
+FIR - Abecasis, Goncalo R
+IR  - Abecasis GR
+FIR - Kang, Hyun Min
+IR  - Kang HM
+FIR - Kidd, Jeffrey M
+IR  - Kidd JM
+FIR - Blackwell, Tom
+IR  - Blackwell T
+FIR - Caron, Sean
+IR  - Caron S
+FIR - Chen, Wei
+IR  - Chen W
+FIR - Emery, Sarah
+IR  - Emery S
+FIR - Fritsche, Lars
+IR  - Fritsche L
+FIR - Fuchsberger, Christian
+IR  - Fuchsberger C
+FIR - Jun, Goo
+IR  - Jun G
+FIR - Li, Bingshan
+IR  - Li B
+FIR - Lyons, Robert
+IR  - Lyons R
+FIR - Scheller, Chris
+IR  - Scheller C
+FIR - Sidore, Carlo
+IR  - Sidore C
+FIR - Song, Shiya
+IR  - Song S
+FIR - Sliwerska, Elzbieta
+IR  - Sliwerska E
+FIR - Taliun, Daniel
+IR  - Taliun D
+FIR - Tan, Adrian
+IR  - Tan A
+FIR - Welch, Ryan
+IR  - Welch R
+FIR - Wing, Mary Kate
+IR  - Wing MK
+FIR - Zhan, Xiaowei
+IR  - Zhan X
+FIR - Awadalla, Philip
+IR  - Awadalla P
+FIR - Hodgkinson, Alan
+IR  - Hodgkinson A
+FIR - Li, Yun
+IR  - Li Y
+FIR - Shi, Xinghua
+IR  - Shi X
+FIR - Quitadamo, Andrew
+IR  - Quitadamo A
+FIR - Lunter, Gerton
+IR  - Lunter G
+FIR - McVean, Gil A
+IR  - McVean GA
+FIR - Marchini, Jonathan L
+IR  - Marchini JL
+FIR - Myers, Simon
+IR  - Myers S
+FIR - Churchhouse, Claire
+IR  - Churchhouse C
+FIR - Delaneau, Olivier
+IR  - Delaneau O
+FIR - Gupta-Hinch, Anjali
+IR  - Gupta-Hinch A
+FIR - Kretzschmar, Warren
+IR  - Kretzschmar W
+FIR - Iqbal, Zamin
+IR  - Iqbal Z
+FIR - Mathieson, Iain
+IR  - Mathieson I
+FIR - Menelaou, Androniki
+IR  - Menelaou A
+FIR - Rimmer, Andy
+IR  - Rimmer A
+FIR - Xifara, Dionysia K
+IR  - Xifara DK
+FIR - Oleksyk, Taras K
+IR  - Oleksyk TK
+FIR - Fu, Yunxin
+IR  - Fu Y
+FIR - Liu, Xiaoming
+IR  - Liu X
+FIR - Xiong, Momiao
+IR  - Xiong M
+FIR - Jorde, Lynn
+IR  - Jorde L
+FIR - Witherspoon, David
+IR  - Witherspoon D
+FIR - Xing, Jinchuan
+IR  - Xing J
+FIR - Eichler, Evan E
+IR  - Eichler EE
+FIR - Browning, Brian L
+IR  - Browning BL
+FIR - Browning, Sharon R
+IR  - Browning SR
+FIR - Hormozdiari, Fereydoun
+IR  - Hormozdiari F
+FIR - Sudmant, Peter H
+IR  - Sudmant PH
+FIR - Khurana, Ekta
+IR  - Khurana E
+FIR - Durbin, Richard M
+IR  - Durbin RM
+FIR - Hurles, Matthew E
+IR  - Hurles ME
+FIR - Tyler-Smith, Chris
+IR  - Tyler-Smith C
+FIR - Albers, Cornelis A
+IR  - Albers CA
+FIR - Ayub, Qasim
+IR  - Ayub Q
+FIR - Balasubramaniam, Senduran
+IR  - Balasubramaniam S
+FIR - Chen, Yuan
+IR  - Chen Y
+FIR - Colonna, Vincenza
+IR  - Colonna V
+FIR - Danecek, Petr
+IR  - Danecek P
+FIR - Jostins, Luke
+IR  - Jostins L
+FIR - Keane, Thomas M
+IR  - Keane TM
+FIR - McCarthy, Shane
+IR  - McCarthy S
+FIR - Walter, Klaudia
+IR  - Walter K
+FIR - Xue, Yali
+IR  - Xue Y
+FIR - Gerstein, Mark B
+IR  - Gerstein MB
+FIR - Abyzov, Alexej
+IR  - Abyzov A
+FIR - Balasubramanian, Suganthi
+IR  - Balasubramanian S
+FIR - Chen, Jieming
+IR  - Chen J
+FIR - Clarke, Declan
+IR  - Clarke D
+FIR - Fu, Yao
+IR  - Fu Y
+FIR - Harmanci, Arif O
+IR  - Harmanci AO
+FIR - Jin, Mike
+IR  - Jin M
+FIR - Lee, Donghoon
+IR  - Lee D
+FIR - Liu, Jeremy
+IR  - Liu J
+FIR - Mu, Xinmeng Jasmine
+IR  - Mu XJ
+FIR - Zhang, Jing
+IR  - Zhang J
+FIR - Zhang, Yan
+IR  - Zhang Y
+FIR - Gerstein, Mark B
+IR  - Gerstein MB
+FIR - Abyzov, Alexej
+IR  - Abyzov A
+FIR - Balasubramanian, Suganthi
+IR  - Balasubramanian S
+FIR - Chen, Jieming
+IR  - Chen J
+FIR - Clarke, Declan
+IR  - Clarke D
+FIR - Fu, Yao
+IR  - Fu Y
+FIR - Harmanci, Arif O
+IR  - Harmanci AO
+FIR - Jin, Mike
+IR  - Jin M
+FIR - Lee, Donghoon
+IR  - Lee D
+FIR - Liu, Jeremy
+IR  - Liu J
+FIR - Mu, Xinmeng Jasmine
+IR  - Mu XJ
+FIR - Zhang, Jing
+IR  - Zhang J
+FIR - Zhang, Yan
+IR  - Zhang Y
+FIR - Li, Yingrui
+IR  - Li Y
+FIR - Luo, Ruibang
+IR  - Luo R
+FIR - Zhu, Hongmei
+IR  - Zhu H
+FIR - Alkan, Can
+IR  - Alkan C
+FIR - Dal, Elif
+IR  - Dal E
+FIR - Kahveci, Fatma
+IR  - Kahveci F
+FIR - Marth, Gabor T
+IR  - Marth GT
+FIR - Garrison, Erik P
+IR  - Garrison EP
+FIR - Kural, Deniz
+IR  - Kural D
+FIR - Lee, Wan-Ping
+IR  - Lee WP
+FIR - Ward, Alistair N
+IR  - Ward AN
+FIR - Wu, Jiantao
+IR  - Wu J
+FIR - Zhang, Mengyao
+IR  - Zhang M
+FIR - McCarroll, Steven A
+IR  - McCarroll SA
+FIR - Handsaker, Robert E
+IR  - Handsaker RE
+FIR - Altshuler, David M
+IR  - Altshuler DM
+FIR - Banks, Eric
+IR  - Banks E
+FIR - Del Angel, Guillermo
+IR  - Del Angel G
+FIR - Genovese, Giulio
+IR  - Genovese G
+FIR - Hartl, Chris
+IR  - Hartl C
+FIR - Li, Heng
+IR  - Li H
+FIR - Kashin, Seva
+IR  - Kashin S
+FIR - Nemesh, James C
+IR  - Nemesh JC
+FIR - Shakir, Khalid
+IR  - Shakir K
+FIR - Yoon, Seungtai C
+IR  - Yoon SC
+FIR - Lihm, Jayon
+IR  - Lihm J
+FIR - Makarov, Vladimir
+IR  - Makarov V
+FIR - Degenhardt, Jeremiah
+IR  - Degenhardt J
+FIR - Korbel, Jan O
+IR  - Korbel JO
+FIR - Fritz, Markus H
+IR  - Fritz MH
+FIR - Meiers, Sascha
+IR  - Meiers S
+FIR - Raeder, Benjamin
+IR  - Raeder B
+FIR - Rausch, Tobias
+IR  - Rausch T
+FIR - Stutz, Adrian M
+IR  - Stutz AM
+FIR - Flicek, Paul
+IR  - Flicek P
+FIR - Casale, Francesco Paolo
+IR  - Casale FP
+FIR - Clarke, Laura
+IR  - Clarke L
+FIR - Smith, Richard E
+IR  - Smith RE
+FIR - Stegle, Oliver
+IR  - Stegle O
+FIR - Zheng-Bradley, Xiangqun
+IR  - Zheng-Bradley X
+FIR - Bentley, David R
+IR  - Bentley DR
+FIR - Barnes, Bret
+IR  - Barnes B
+FIR - Cheetham, R Keira
+IR  - Cheetham RK
+FIR - Eberle, Michael
+IR  - Eberle M
+FIR - Humphray, Sean
+IR  - Humphray S
+FIR - Kahn, Scott
+IR  - Kahn S
+FIR - Murray, Lisa
+IR  - Murray L
+FIR - Shaw, Richard
+IR  - Shaw R
+FIR - Lameijer, Eric-Wubbo
+IR  - Lameijer EW
+FIR - Batzer, Mark A
+IR  - Batzer MA
+FIR - Konkel, Miriam K
+IR  - Konkel MK
+FIR - Walker, Jerilyn A
+IR  - Walker JA
+FIR - Ding, Li
+IR  - Ding L
+FIR - Hall, Ira
+IR  - Hall I
+FIR - Ye, Kai
+IR  - Ye K
+FIR - Lacroute, Phil
+IR  - Lacroute P
+FIR - Lee, Charles
+IR  - Lee C
+FIR - Cerveira, Eliza
+IR  - Cerveira E
+FIR - Malhotra, Ankit
+IR  - Malhotra A
+FIR - Hwang, Jaeho
+IR  - Hwang J
+FIR - Plewczynski, Dariusz
+IR  - Plewczynski D
+FIR - Radew, Kamen
+IR  - Radew K
+FIR - Romanovitch, Mallory
+IR  - Romanovitch M
+FIR - Zhang, Chengsheng
+IR  - Zhang C
+FIR - Craig, David W
+IR  - Craig DW
+FIR - Homer, Nils
+IR  - Homer N
+FIR - Church, Deanna
+IR  - Church D
+FIR - Xiao, Chunlin
+IR  - Xiao C
+FIR - Sebat, Jonathan
+IR  - Sebat J
+FIR - Antaki, Danny
+IR  - Antaki D
+FIR - Bafna, Vineet
+IR  - Bafna V
+FIR - Michaelson, Jacob
+IR  - Michaelson J
+FIR - Ye, Kenny
+IR  - Ye K
+FIR - Devine, Scott E
+IR  - Devine SE
+FIR - Gardner, Eugene J
+IR  - Gardner EJ
+FIR - Abecasis, Goncalo R
+IR  - Abecasis GR
+FIR - Kidd, Jeffrey M
+IR  - Kidd JM
+FIR - Mills, Ryan E
+IR  - Mills RE
+FIR - Dayama, Gargi
+IR  - Dayama G
+FIR - Emery, Sarah
+IR  - Emery S
+FIR - Jun, Goo
+IR  - Jun G
+FIR - Shi, Xinghua
+IR  - Shi X
+FIR - Quitadamo, Andrew
+IR  - Quitadamo A
+FIR - Lunter, Gerton
+IR  - Lunter G
+FIR - McVean, Gil A
+IR  - McVean GA
+FIR - Chen, Ken
+IR  - Chen K
+FIR - Fan, Xian
+IR  - Fan X
+FIR - Chong, Zechen
+IR  - Chong Z
+FIR - Chen, Tenghui
+IR  - Chen T
+FIR - Witherspoon, David
+IR  - Witherspoon D
+FIR - Xing, Jinchuan
+IR  - Xing J
+FIR - Eichler, Evan E
+IR  - Eichler EE
+FIR - Chaisson, Mark J
+IR  - Chaisson MJ
+FIR - Hormozdiari, Fereydoun
+IR  - Hormozdiari F
+FIR - Huddleston, John
+IR  - Huddleston J
+FIR - Malig, Maika
+IR  - Malig M
+FIR - Nelson, Bradley J
+IR  - Nelson BJ
+FIR - Sudmant, Peter H
+IR  - Sudmant PH
+FIR - Parrish, Nicholas F
+IR  - Parrish NF
+FIR - Khurana, Ekta
+IR  - Khurana E
+FIR - Hurles, Matthew E
+IR  - Hurles ME
+FIR - Blackburne, Ben
+IR  - Blackburne B
+FIR - Lindsay, Sarah J
+IR  - Lindsay SJ
+FIR - Ning, Zemin
+IR  - Ning Z
+FIR - Walter, Klaudia
+IR  - Walter K
+FIR - Zhang, Yujun
+IR  - Zhang Y
+FIR - Gerstein, Mark B
+IR  - Gerstein MB
+FIR - Abyzov, Alexej
+IR  - Abyzov A
+FIR - Chen, Jieming
+IR  - Chen J
+FIR - Clarke, Declan
+IR  - Clarke D
+FIR - Lam, Hugo
+IR  - Lam H
+FIR - Mu, Xinmeng Jasmine
+IR  - Mu XJ
+FIR - Sisu, Cristina
+IR  - Sisu C
+FIR - Zhang, Jing
+IR  - Zhang J
+FIR - Zhang, Yan
+IR  - Zhang Y
+FIR - Gerstein, Mark B
+IR  - Gerstein MB
+FIR - Abyzov, Alexej
+IR  - Abyzov A
+FIR - Chen, Jieming
+IR  - Chen J
+FIR - Clarke, Declan
+IR  - Clarke D
+FIR - Lam, Hugo
+IR  - Lam H
+FIR - Mu, Xinmeng Jasmine
+IR  - Mu XJ
+FIR - Sisu, Cristina
+IR  - Sisu C
+FIR - Zhang, Jing
+IR  - Zhang J
+FIR - Zhang, Yan
+IR  - Zhang Y
+FIR - Gibbs, Richard A
+IR  - Gibbs RA
+FIR - Yu, Fuli
+IR  - Yu F
+FIR - Bainbridge, Matthew
+IR  - Bainbridge M
+FIR - Challis, Danny
+IR  - Challis D
+FIR - Evani, Uday S
+IR  - Evani US
+FIR - Kovar, Christie
+IR  - Kovar C
+FIR - Lu, James
+IR  - Lu J
+FIR - Muzny, Donna
+IR  - Muzny D
+FIR - Nagaswamy, Uma
+IR  - Nagaswamy U
+FIR - Reid, Jeffrey G
+IR  - Reid JG
+FIR - Sabo, Aniko
+IR  - Sabo A
+FIR - Yu, Jin
+IR  - Yu J
+FIR - Guo, Xiaosen
+IR  - Guo X
+FIR - Li, Wangshen
+IR  - Li W
+FIR - Li, Yingrui
+IR  - Li Y
+FIR - Wu, Renhua
+IR  - Wu R
+FIR - Marth, Gabor T
+IR  - Marth GT
+FIR - Garrison, Erik P
+IR  - Garrison EP
+FIR - Leong, Wen Fung
+IR  - Leong WF
+FIR - Ward, Alistair N
+IR  - Ward AN
+FIR - Del Angel, Guillermo
+IR  - Del Angel G
+FIR - DePristo, Mark A
+IR  - DePristo MA
+FIR - Gabriel, Stacey B
+IR  - Gabriel SB
+FIR - Gupta, Namrata
+IR  - Gupta N
+FIR - Hartl, Chris
+IR  - Hartl C
+FIR - Poplin, Ryan E
+IR  - Poplin RE
+FIR - Clark, Andrew G
+IR  - Clark AG
+FIR - Rodriguez-Flores, Juan L
+IR  - Rodriguez-Flores JL
+FIR - Flicek, Paul
+IR  - Flicek P
+FIR - Clarke, Laura
+IR  - Clarke L
+FIR - Smith, Richard E
+IR  - Smith RE
+FIR - Zheng-Bradley, Xiangqun
+IR  - Zheng-Bradley X
+FIR - MacArthur, Daniel G
+IR  - MacArthur DG
+FIR - Mardis, Elaine R
+IR  - Mardis ER
+FIR - Fulton, Robert
+IR  - Fulton R
+FIR - Koboldt, Daniel C
+IR  - Koboldt DC
+FIR - Gravel, Simon
+IR  - Gravel S
+FIR - Bustamante, Carlos D
+IR  - Bustamante CD
+FIR - Craig, David W
+IR  - Craig DW
+FIR - Christoforides, Alexis
+IR  - Christoforides A
+FIR - Homer, Nils
+IR  - Homer N
+FIR - Izatt, Tyler
+IR  - Izatt T
+FIR - Sherry, Stephen T
+IR  - Sherry ST
+FIR - Xiao, Chunlin
+IR  - Xiao C
+FIR - Dermitzakis, Emmanouil T
+IR  - Dermitzakis ET
+FIR - Abecasis, Goncalo R
+IR  - Abecasis GR
+FIR - Min Kang, Hyun
+IR  - Min Kang H
+FIR - McVean, Gil A
+IR  - McVean GA
+FIR - Gerstein, Mark B
+IR  - Gerstein MB
+FIR - Balasubramanian, Suganthi
+IR  - Balasubramanian S
+FIR - Habegger, Lukas
+IR  - Habegger L
+FIR - Gerstein, Mark B
+IR  - Gerstein MB
+FIR - Balasubramanian, Suganthi
+IR  - Balasubramanian S
+FIR - Habegger, Lukas
+IR  - Habegger L
+FIR - Yu, Haiyuan
+IR  - Yu H
+FIR - Flicek, Paul
+IR  - Flicek P
+FIR - Clarke, Laura
+IR  - Clarke L
+FIR - Cunningham, Fiona
+IR  - Cunningham F
+FIR - Dunham, Ian
+IR  - Dunham I
+FIR - Zerbino, Daniel
+IR  - Zerbino D
+FIR - Zheng-Bradley, Xiangqun
+IR  - Zheng-Bradley X
+FIR - Lage, Kasper
+IR  - Lage K
+FIR - Jespersen, Jakob Berg
+IR  - Jespersen JB
+FIR - Horn, Heiko
+IR  - Horn H
+FIR - Montgomery, Stephen B
+IR  - Montgomery SB
+FIR - DeGorter, Marianne K
+IR  - DeGorter MK
+FIR - Khurana, Ekta
+IR  - Khurana E
+FIR - Tyler-Smith, Chris
+IR  - Tyler-Smith C
+FIR - Chen, Yuan
+IR  - Chen Y
+FIR - Colonna, Vincenza
+IR  - Colonna V
+FIR - Xue, Yali
+IR  - Xue Y
+FIR - Gerstein, Mark B
+IR  - Gerstein MB
+FIR - Balasubramanian, Suganthi
+IR  - Balasubramanian S
+FIR - Fu, Yao
+IR  - Fu Y
+FIR - Kim, Donghoon
+IR  - Kim D
+FIR - Gerstein, Mark B
+IR  - Gerstein MB
+FIR - Balasubramanian, Suganthi
+IR  - Balasubramanian S
+FIR - Fu, Yao
+IR  - Fu Y
+FIR - Kim, Donghoon
+IR  - Kim D
+FIR - Auton, Adam
+IR  - Auton A
+FIR - Marcketta, Anthony
+IR  - Marcketta A
+FIR - Desalle, Rob
+IR  - Desalle R
+FIR - Narechania, Apurva
+IR  - Narechania A
+FIR - Sayres, Melissa A Wilson
+IR  - Sayres MA
+FIR - Garrison, Erik P
+IR  - Garrison EP
+FIR - Handsaker, Robert E
+IR  - Handsaker RE
+FIR - Kashin, Seva
+IR  - Kashin S
+FIR - McCarroll, Steven A
+IR  - McCarroll SA
+FIR - Rodriguez-Flores, Juan L
+IR  - Rodriguez-Flores JL
+FIR - Flicek, Paul
+IR  - Flicek P
+FIR - Clarke, Laura
+IR  - Clarke L
+FIR - Zheng-Bradley, Xiangqun
+IR  - Zheng-Bradley X
+FIR - Erlich, Yaniv
+IR  - Erlich Y
+FIR - Gymrek, Melissa
+IR  - Gymrek M
+FIR - Willems, Thomas Frederick
+IR  - Willems TF
+FIR - Bustamante, Carlos D
+IR  - Bustamante CD
+FIR - Mendez, Fernando L
+IR  - Mendez FL
+FIR - Poznik, G David
+IR  - Poznik GD
+FIR - Underhill, Peter A
+IR  - Underhill PA
+FIR - Lee, Charles
+IR  - Lee C
+FIR - Cerveira, Eliza
+IR  - Cerveira E
+FIR - Malhotra, Ankit
+IR  - Malhotra A
+FIR - Romanovitch, Mallory
+IR  - Romanovitch M
+FIR - Zhang, Chengsheng
+IR  - Zhang C
+FIR - Abecasis, Goncalo R
+IR  - Abecasis GR
+FIR - Coin, Lachlan
+IR  - Coin L
+FIR - Shao, Haojing
+IR  - Shao H
+FIR - Mittelman, David
+IR  - Mittelman D
+FIR - Tyler-Smith, Chris
+IR  - Tyler-Smith C
+FIR - Ayub, Qasim
+IR  - Ayub Q
+FIR - Banerjee, Ruby
+IR  - Banerjee R
+FIR - Cerezo, Maria
+IR  - Cerezo M
+FIR - Chen, Yuan
+IR  - Chen Y
+FIR - Fitzgerald, Thomas W
+IR  - Fitzgerald TW
+FIR - Louzada, Sandra
+IR  - Louzada S
+FIR - Massaia, Andrea
+IR  - Massaia A
+FIR - McCarthy, Shane
+IR  - McCarthy S
+FIR - Ritchie, Graham R
+IR  - Ritchie GR
+FIR - Xue, Yali
+IR  - Xue Y
+FIR - Yang, Fengtang
+IR  - Yang F
+FIR - Tyler-Smith, Chris
+IR  - Tyler-Smith C
+FIR - Ayub, Qasim
+IR  - Ayub Q
+FIR - Banerjee, Ruby
+IR  - Banerjee R
+FIR - Cerezo, Maria
+IR  - Cerezo M
+FIR - Chen, Yuan
+IR  - Chen Y
+FIR - Fitzgerald, Thomas W
+IR  - Fitzgerald TW
+FIR - Louzada, Sandra
+IR  - Louzada S
+FIR - Massaia, Andrea
+IR  - Massaia A
+FIR - McCarthy, Shane
+IR  - McCarthy S
+FIR - Ritchie, Graham R
+IR  - Ritchie GR
+FIR - Xue, Yali
+IR  - Xue Y
+FIR - Yang, Fengtang
+IR  - Yang F
+FIR - Gibbs, Richard A
+IR  - Gibbs RA
+FIR - Kovar, Christie
+IR  - Kovar C
+FIR - Kalra, Divya
+IR  - Kalra D
+FIR - Hale, Walker
+IR  - Hale W
+FIR - Muzny, Donna
+IR  - Muzny D
+FIR - Reid, Jeffrey G
+IR  - Reid JG
+FIR - Wang, Jun
+IR  - Wang J
+FIR - Dan, Xu
+IR  - Dan X
+FIR - Guo, Xiaosen
+IR  - Guo X
+FIR - Li, Guoqing
+IR  - Li G
+FIR - Li, Yingrui
+IR  - Li Y
+FIR - Ye, Chen
+IR  - Ye C
+FIR - Zheng, Xiaole
+IR  - Zheng X
+FIR - Altshuler, David M
+IR  - Altshuler DM
+FIR - Flicek, Paul
+IR  - Flicek P
+FIR - Clarke, Laura
+IR  - Clarke L
+FIR - Zheng-Bradley, Xiangqun
+IR  - Zheng-Bradley X
+FIR - Bentley, David R
+IR  - Bentley DR
+FIR - Cox, Anthony
+IR  - Cox A
+FIR - Humphray, Sean
+IR  - Humphray S
+FIR - Kahn, Scott
+IR  - Kahn S
+FIR - Sudbrak, Ralf
+IR  - Sudbrak R
+FIR - Albrecht, Marcus W
+IR  - Albrecht MW
+FIR - Lienhard, Matthias
+IR  - Lienhard M
+FIR - Larson, David
+IR  - Larson D
+FIR - Craig, David W
+IR  - Craig DW
+FIR - Izatt, Tyler
+IR  - Izatt T
+FIR - Kurdoglu, Ahmet A
+IR  - Kurdoglu AA
+FIR - Sherry, Stephen T
+IR  - Sherry ST
+FIR - Xiao, Chunlin
+IR  - Xiao C
+FIR - Haussler, David
+IR  - Haussler D
+FIR - Abecasis, Goncalo R
+IR  - Abecasis GR
+FIR - McVean, Gil A
+IR  - McVean GA
+FIR - Durbin, Richard M
+IR  - Durbin RM
+FIR - Balasubramaniam, Senduran
+IR  - Balasubramaniam S
+FIR - Keane, Thomas M
+IR  - Keane TM
+FIR - McCarthy, Shane
+IR  - McCarthy S
+FIR - Stalker, James
+IR  - Stalker J
+FIR - Durbin, Richard M
+IR  - Durbin RM
+FIR - Balasubramaniam, Senduran
+IR  - Balasubramaniam S
+FIR - Keane, Thomas M
+IR  - Keane TM
+FIR - McCarthy, Shane
+IR  - McCarthy S
+FIR - Stalker, James
+IR  - Stalker J
+FIR - Chakravarti, Aravinda
+IR  - Chakravarti A
+FIR - Knoppers, Bartha M
+IR  - Knoppers BM
+FIR - Abecasis, Goncalo R
+IR  - Abecasis GR
+FIR - Barnes, Kathleen C
+IR  - Barnes KC
+FIR - Beiswanger, Christine
+IR  - Beiswanger C
+FIR - Burchard, Esteban G
+IR  - Burchard EG
+FIR - Bustamante, Carlos D
+IR  - Bustamante CD
+FIR - Cai, Hongyu
+IR  - Cai H
+FIR - Cao, Hongzhi
+IR  - Cao H
+FIR - Durbin, Richard M
+IR  - Durbin RM
+FIR - Gerry, Norman P
+IR  - Gerry NP
+FIR - Gharani, Neda
+IR  - Gharani N
+FIR - Gibbs, Richard A
+IR  - Gibbs RA
+FIR - Gignoux, Christopher R
+IR  - Gignoux CR
+FIR - Gravel, Simon
+IR  - Gravel S
+FIR - Henn, Brenna
+IR  - Henn B
+FIR - Jones, Danielle
+IR  - Jones D
+FIR - Jorde, Lynn
+IR  - Jorde L
+FIR - Kaye, Jane S
+IR  - Kaye JS
+FIR - Keinan, Alon
+IR  - Keinan A
+FIR - Kent, Alastair
+IR  - Kent A
+FIR - Kerasidou, Angeliki
+IR  - Kerasidou A
+FIR - Li, Yingrui
+IR  - Li Y
+FIR - Mathias, Rasika
+IR  - Mathias R
+FIR - McVean, Gil A
+IR  - McVean GA
+FIR - Moreno-Estrada, Andres
+IR  - Moreno-Estrada A
+FIR - Ossorio, Pilar N
+IR  - Ossorio PN
+FIR - Parker, Michael
+IR  - Parker M
+FIR - Resch, Alissa M
+IR  - Resch AM
+FIR - Rotimi, Charles N
+IR  - Rotimi CN
+FIR - Royal, Charmaine D
+IR  - Royal CD
+FIR - Sandoval, Karla
+IR  - Sandoval K
+FIR - Su, Yeyang
+IR  - Su Y
+FIR - Sudbrak, Ralf
+IR  - Sudbrak R
+FIR - Tian, Zhongming
+IR  - Tian Z
+FIR - Tishkoff, Sarah
+IR  - Tishkoff S
+FIR - Toji, Lorraine H
+IR  - Toji LH
+FIR - Tyler-Smith, Chris
+IR  - Tyler-Smith C
+FIR - Via, Marc
+IR  - Via M
+FIR - Wang, Yuhong
+IR  - Wang Y
+FIR - Yang, Huanming
+IR  - Yang H
+FIR - Yang, Ling
+IR  - Yang L
+FIR - Zhu, Jiayong
+IR  - Zhu J
+FIR - Bodmer, Walter
+IR  - Bodmer W
+FIR - Bedoya, Gabriel
+IR  - Bedoya G
+FIR - Ruiz-Linares, Andres
+IR  - Ruiz-Linares A
+FIR - Cai, Zhiming
+IR  - Cai Z
+FIR - Gao, Yang
+IR  - Gao Y
+FIR - Chu, Jiayou
+IR  - Chu J
+FIR - Peltonen, Leena
+IR  - Peltonen L
+FIR - Garcia-Montero, Andres
+IR  - Garcia-Montero A
+FIR - Orfao, Alberto
+IR  - Orfao A
+FIR - Dutil, Julie
+IR  - Dutil J
+FIR - Martinez-Cruzado, Juan C
+IR  - Martinez-Cruzado JC
+FIR - Oleksyk, Taras K
+IR  - Oleksyk TK
+FIR - Barnes, Kathleen C
+IR  - Barnes KC
+FIR - Mathias, Rasika A
+IR  - Mathias RA
+FIR - Hennis, Anselm
+IR  - Hennis A
+FIR - Watson, Harold
+IR  - Watson H
+FIR - McKenzie, Colin
+IR  - McKenzie C
+FIR - Qadri, Firdausi
+IR  - Qadri F
+FIR - LaRocque, Regina
+IR  - LaRocque R
+FIR - Sabeti, Pardis C
+IR  - Sabeti PC
+FIR - Zhu, Jiayong
+IR  - Zhu J
+FIR - Deng, Xiaoyan
+IR  - Deng X
+FIR - Sabeti, Pardis C
+IR  - Sabeti PC
+FIR - Asogun, Danny
+IR  - Asogun D
+FIR - Folarin, Onikepe
+IR  - Folarin O
+FIR - Happi, Christian
+IR  - Happi C
+FIR - Omoniwa, Omonwunmi
+IR  - Omoniwa O
+FIR - Stremlau, Matt
+IR  - Stremlau M
+FIR - Tariyal, Ridhi
+IR  - Tariyal R
+FIR - Jallow, Muminatou
+IR  - Jallow M
+FIR - Joof, Fatoumatta Sisay
+IR  - Joof FS
+FIR - Corrah, Tumani
+IR  - Corrah T
+FIR - Rockett, Kirk
+IR  - Rockett K
+FIR - Kwiatkowski, Dominic
+IR  - Kwiatkowski D
+FIR - Kooner, Jaspal
+IR  - Kooner J
+FIR - Hien, Tran Tinh
+IR  - Hien TT
+FIR - Dunstan, Sarah J
+IR  - Dunstan SJ
+FIR - Hang, Nguyen Thuy
+IR  - Hang NT
+FIR - Fonnie, Richard
+IR  - Fonnie R
+FIR - Garry, Robert
+IR  - Garry R
+FIR - Kanneh, Lansana
+IR  - Kanneh L
+FIR - Moses, Lina
+IR  - Moses L
+FIR - Sabeti, Pardis C
+IR  - Sabeti PC
+FIR - Schieffelin, John
+IR  - Schieffelin J
+FIR - Grant, Donald S
+IR  - Grant DS
+FIR - Gallo, Carla
+IR  - Gallo C
+FIR - Poletti, Giovanni
+IR  - Poletti G
+FIR - Saleheen, Danish
+IR  - Saleheen D
+FIR - Rasheed, Asif
+IR  - Rasheed A
+FIR - Saleheen, Danish
+IR  - Saleheen D
+FIR - Rasheed, Asif
+IR  - Rasheed A
+FIR - Brooks, Lisa D
+IR  - Brooks LD
+FIR - Felsenfeld, Adam L
+IR  - Felsenfeld AL
+FIR - McEwen, Jean E
+IR  - McEwen JE
+FIR - Vaydylevich, Yekaterina
+IR  - Vaydylevich Y
+FIR - Green, Eric D
+IR  - Green ED
+FIR - Duncanson, Audrey
+IR  - Duncanson A
+FIR - Dunn, Michael
+IR  - Dunn M
+FIR - Schloss, Jeffery A
+IR  - Schloss JA
+FIR - Wang, Jun
+IR  - Wang J
+FIR - Yang, Huanming
+IR  - Yang H
+FIR - Auton, Adam
+IR  - Auton A
+FIR - Brooks, Lisa D
+IR  - Brooks LD
+FIR - Durbin, Richard M
+IR  - Durbin RM
+FIR - Garrison, Erik P
+IR  - Garrison EP
+FIR - Min Kang, Hyun
+IR  - Min Kang H
+FIR - Korbel, Jan O
+IR  - Korbel JO
+FIR - Marchini, Jonathan L
+IR  - Marchini JL
+FIR - McCarthy, Shane
+IR  - McCarthy S
+FIR - McVean, Gil A
+IR  - McVean GA
+FIR - Abecasis, Goncalo R
+IR  - Abecasis GR
+FIR - Auton, Adam
+IR  - Auton A
+FIR - Brooks, Lisa D
+IR  - Brooks LD
+FIR - Durbin, Richard M
+IR  - Durbin RM
+FIR - Garrison, Erik P
+IR  - Garrison EP
+FIR - Min Kang, Hyun
+IR  - Min Kang H
+FIR - Korbel, Jan O
+IR  - Korbel JO
+FIR - Marchini, Jonathan L
+IR  - Marchini JL
+FIR - McCarthy, Shane
+IR  - McCarthy S
+FIR - McVean, Gil A
+IR  - McVean GA
+FIR - Abecasis, Goncalo R
+IR  - Abecasis GR
+EDAT- 2015/10/04 06:00
+MHDA- 2015/10/27 06:00
+PMCR- 2015/09/30
+CRDT- 2015/10/04 06:00
+PHST- 2015/05/12 00:00 [received]
+PHST- 2015/08/20 00:00 [accepted]
+PHST- 2015/10/04 06:00 [entrez]
+PHST- 2015/10/04 06:00 [pubmed]
+PHST- 2015/10/27 06:00 [medline]
+PHST- 2015/09/30 00:00 [pmc-release]
+AID - nature15393 [pii]
+AID - BFnature15393 [pii]
+AID - 10.1038/nature15393 [doi]
+PST - ppublish
+SO  - Nature. 2015 Oct 1;526(7571):68-74. doi: 10.1038/nature15393.

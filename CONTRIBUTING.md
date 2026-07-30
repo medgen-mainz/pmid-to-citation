@@ -21,7 +21,8 @@ make sync
 | `make fix`           | Format with `ruff format` and apply safe lint fixes             |
 | `make check`         | Verify the lockfile, formatting, lint, and types                |
 | `make test`          | Run the test suite with coverage (no network access)            |
-| `make test-network`  | Also run the tests that call the live Entrez API                |
+| `make test-network`  | Also run the tests that call the live Entrez API (needs `NCBI_EMAIL`) |
+| `make refresh-fixtures` | Re-fetch the recorded Entrez responses (needs `NCBI_EMAIL`)   |
 | `make test-snapshot` | Re-record [syrupy](https://github.com/syrupy-project/syrupy) snapshots |
 | `make docs`          | Build the Sphinx documentation                                  |
 | `make check-package` | Build and verify the distribution artifacts                     |
@@ -37,9 +38,9 @@ Run `make check test` before opening a pull request.
 - **Formatting.** `ruff format` with a 120 character line length, and `ruff check`
   for lint. There is no second formatter and no `mypy`; do not add one.
 - **Docstrings.** Google style on every public module, class, and function.
-- **Dependencies.** The library has no runtime dependencies. Declare one in the
-  same change that first imports it, never ahead of use, and justify it in the
-  pull request. Prefer the standard library where it is adequate.
+- **Dependencies.** Declare one in the same change that first imports it, never
+  ahead of use, and justify it in the pull request. Prefer the standard library
+  where it is adequate. The runtime set is `citeproc-py`, `httpx`, and `pydantic`.
 
 ## Network access in tests
 
@@ -48,9 +49,12 @@ deselected by default via `addopts`, and CI never runs it — the suite must not
 depend on a third-party service being up, and must not spend the project's
 Entrez rate budget on every push.
 
-Everything else stubs HTTP at the client boundary and runs against response
-bodies recorded under `tests/data/`. Keep recorded bodies byte-for-byte as Entrez
-returned them; pre-commit is configured not to rewrite them.
+Everything else stubs HTTP with [respx](https://lundberg.github.io/respx/) and
+runs against response bodies recorded under `tests/data/medline/`. Keep recorded
+bodies byte-for-byte as Entrez returned them; pre-commit is configured not to
+rewrite them. `make refresh-fixtures` re-fetches them when a record has been
+revised upstream — review the resulting diff rather than re-recording snapshots
+blindly, because a changed citation is a change in what this library promises.
 
 If you do run `make test-network`, be aware of the
 [Entrez usage guidelines](https://www.ncbi.nlm.nih.gov/books/NBK25497/): at most

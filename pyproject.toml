@@ -17,9 +17,14 @@ classifiers = [
     "Topic :: Text Processing :: Markup",
     "Typing :: Typed",
 ]
-# A dependency is declared in the same change that first imports it, never
-# ahead of use.
-dependencies = []
+dependencies = [
+    # Renders records through Citation Style Language definitions. Pulls in lxml.
+    "citeproc-py>=0.9.0,<1.0",
+    # Async HTTP client for the Entrez E-utilities endpoints.
+    "httpx>=0.28,<1.0",
+    # Validated, type-annotated models for the fetched records.
+    "pydantic>=2.12,<3.0",
+]
 description = "Fetch PubMed citations from the NCBI Entrez API and render reference text"
 keywords = [
     "bibliography",
@@ -52,8 +57,10 @@ dev = [
     "coverage>=7.10.7",
     "pyright>=1.1.400",
     "pytest>=8.0.0",
+    "pytest-asyncio>=0.24.0",
     "pytest-cov>=5.0.0",
     "pytest-sugar>=1.0.0",
+    "respx>=0.22.0",
     "ruff>=0.14.2",
     "sphinx>=7.0.0",
     "sphinx-rtd-theme>=2.0.0",
@@ -65,7 +72,7 @@ dev = [
 # The package ships `py.typed`, so its annotations are a contract with users.
 # Strict mode from the first commit keeps that contract cheap to maintain.
 typeCheckingMode = "strict"
-include = ["src/pmid_to_citation", "tests", "docs"]
+include = ["src/pmid_to_citation", "tests", "docs", "scripts"]
 exclude = [
     "**/__pycache__",
     "docs/_build",
@@ -95,6 +102,10 @@ lint.select = [
 ]
 lint.ignore = [
   "E501", # line too long, handled by the formatter
+  # Constructor arguments are documented in the class docstring, which is the
+  # Google convention and what Sphinx renders. A second copy on `__init__` would
+  # only be a copy to keep in sync.
+  "D107",
 ]
 
 [tool.ruff.lint.pydocstyle]
@@ -106,8 +117,15 @@ known-first-party = ["pmid_to_citation"]
 [tool.ruff.lint.per-file-ignores]
 # Test and Sphinx modules are not part of the public API surface, so the
 # docstring rules that exist to keep that surface documented do not apply.
-"tests/**" = ["D100", "D101", "D102", "D103", "D104"]
+"tests/**" = [
+  "D100", "D101", "D102", "D103", "D104",
+  # Rendered citations legitimately contain en dashes in page ranges and Greek
+  # letters in titles, and the tests assert on that text exactly.
+  "RUF001",
+]
 "docs/conf.py" = ["D100"]
+# A maintenance script, not a library module.
+"scripts/**" = ["INP001"]
 
 [tool.pytest.ini_options]
 addopts = [
@@ -124,6 +142,9 @@ markers = [
 ]
 testpaths = ["tests", "src/pmid_to_citation"]
 xfail_strict = true
+# The client is async, and every one of its tests would otherwise need a marker.
+asyncio_mode = "auto"
+asyncio_default_fixture_loop_scope = "function"
 
 [tool.coverage.run]
 branch = true
@@ -153,6 +174,7 @@ include = [
   "/src",
   "/tests",
   "/docs",
+  "/scripts",
   "/AUTHORS.rst",
   "/CHANGELOG.md",
   "/CITATION.cff",

@@ -1,7 +1,7 @@
 # All targets run through `uv` against the committed `uv.lock`, so local runs
 # and CI resolve to byte-identical dependency sets.
 
-SOURCES := src tests docs
+SOURCES := src tests docs scripts
 
 .PHONY: default
 default: help
@@ -43,10 +43,17 @@ test:
 	uv run pytest --cov --cov-report=term-missing --durations 5
 
 # Deliberately separate from `test`: these hit the live Entrez API, so they are
-# slow, rate-limited, and cannot run in CI.
+# slow, rate-limited, and cannot run in CI. Needs NCBI_EMAIL set.
 .PHONY: test-network
 test-network:
 	uv run pytest -m "network or not network" --durations 5
+
+# Re-fetches the recorded Entrez responses under tests/data/medline. Needs
+# NCBI_EMAIL set. Review `git diff` afterwards: a changed fixture may change a
+# rendered citation, which is a change in what this library promises.
+.PHONY: refresh-fixtures
+refresh-fixtures:
+	uv run python scripts/refresh_medline_fixtures.py
 
 .PHONY: test-snapshot
 test-snapshot:
@@ -79,5 +86,8 @@ check-package: build
 	uvx check-wheel-contents dist-from-sdist/*.whl
 	uv run --isolated --no-project --with dist-from-sdist/*.whl \
 		python -c "import pmid_to_citation, pathlib; \
-		assert (pathlib.Path(pmid_to_citation.__file__).parent / 'py.typed').is_file(), 'py.typed missing from wheel'; \
+		root = pathlib.Path(pmid_to_citation.__file__).parent; \
+		assert (root / 'py.typed').is_file(), 'py.typed missing from wheel'; \
+		assert (root / 'styles' / 'nature.csl').is_file(), 'CSL styles missing from wheel'; \
+		print(pmid_to_citation.CitationFormatter().format_citation(pmid_to_citation.PubMedRecord(pmid=1, title='A paper'))); \
 		print('package OK:', pmid_to_citation.__version__)"

@@ -1,0 +1,108 @@
+
+PMID- 35522339
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220923
+LR  - 20240903
+IS  - 1432-198X (Electronic)
+IS  - 0931-041X (Print)
+IS  - 0931-041X (Linking)
+VI  - 37
+IP  - 11
+DP  - 2022 Nov
+TI  - Atypical hemolytic uremic syndrome induced by SARS-CoV2 infection in infants with 
+      EXOSC3 mutation.
+PG  - 2781-2784
+LID - 10.1007/s00467-022-05566-6 [doi]
+AB  - BACKGROUND: Atypical hemolytic uremic syndrome (aHUS) is a rare disease 
+      characterized by systemic thrombotic microangiopathy mainly in the kidneys and 
+      mostly due to genetic disorders leading to uncontrolled activation of the 
+      complement system. Severe complications of SARS-CoV2 infection are linked to 
+      microvascular injury and complement activation is suspected to play a role in the 
+      pathogenesis of endothelial cell damage in severe COVID-19. METHODS: We present 
+      the first two cases of aHUS triggered by SARS-CoV-2 infection in two unrelated 
+      infants with the same mutation in the RNA exosome gene EXOSC3. This mutation is 
+      known to cause pontocerebellar hypoplasia type 1b, an autosomal-recessive 
+      neurodegenerative disease. So far, no kidney involvement in affected persons was 
+      reported. RESULTS: As eculizumab treatment was unsuccessful and 
+      complement-mediated disorders were ruled out, we suppose that the atypical HUS in 
+      our two patients is not due to complement-mediated thrombotic microangiopathy but 
+      rather due to a dysfunction of the RNA exosome. CONCLUSIONS: The RNA exosome is 
+      crucial for the precise processing and degradation of nuclear and cytoplasmatic 
+      RNA. We suspect that the SARS-CoV-2 infection led to changes in RNA that could 
+      not be offset by the defective RNA exosome in our two patients. The 
+      accumulation/wrong processing of the viral RNA must have led to the endothelial 
+      cell damage resulting in aHUS. This would be a new - "RNA-induced" - mechanism of 
+      aHUS.
+CI  - (c) 2022. The Author(s), under exclusive licence to International Pediatric 
+      Nephrology Association.
+FAU - Van Quekelberghe, Chantal
+AU  - Van Quekelberghe C
+AUID- ORCID: 0000-0002-9901-0852
+AD  - Clementine Kinderhospital, Theobald-Christ-Strasse 16, 60316, Frankfurt am Main, 
+      Germany. c.vanquekelberghe@ckhf.de.
+FAU - Latta, Kay
+AU  - Latta K
+AD  - Clementine Kinderhospital, Theobald-Christ-Strasse 16, 60316, Frankfurt am Main, 
+      Germany.
+FAU - Kunzmann, Steffen
+AU  - Kunzmann S
+AD  - Burgerhospital, Frankfurt am Main, Germany.
+FAU - Grohmann, Maik
+AU  - Grohmann M
+AD  - Medizinische Genetik Mainz, Mainz, Germany.
+FAU - Hansen, Matthias
+AU  - Hansen M
+AD  - Clementine Kinderhospital, Theobald-Christ-Strasse 16, 60316, Frankfurt am Main, 
+      Germany.
+LA  - eng
+PT  - Journal Article
+DEP - 20220506
+PL  - Germany
+TA  - Pediatr Nephrol
+JT  - Pediatric nephrology (Berlin, Germany)
+JID - 8708728
+RN  - 0 (EXOSC3 protein, human)
+RN  - 0 (RNA, Viral)
+RN  - 0 (RNA-Binding Proteins)
+RN  - 9007-36-7 (Complement System Proteins)
+RN  - EC 3.1.- (Exosome Multienzyme Ribonuclease Complex)
+SB  - IM
+MH  - *Atypical Hemolytic Uremic Syndrome/therapy
+MH  - *COVID-19/complications
+MH  - Complement System Proteins
+MH  - Exosome Multienzyme Ribonuclease Complex/genetics
+MH  - Humans
+MH  - Infant
+MH  - Mutation
+MH  - *Neurodegenerative Diseases/complications
+MH  - RNA, Viral
+MH  - RNA-Binding Proteins/genetics
+MH  - SARS-CoV-2
+MH  - *Thrombotic Microangiopathies/complications/genetics
+PMC - PMC9072151
+OTO - NOTNLM
+OT  - COVID-19
+OT  - EXOSC3 mutation
+OT  - RNA exosome
+OT  - aHUS
+COIS- No funding was received to assist with the preparation of this manuscript. The 
+      authors have no competing interests to declare that are relevant to the content 
+      of this article.
+EDAT- 2022/05/07 06:00
+MHDA- 2022/09/24 06:00
+PMCR- 2022/05/06
+CRDT- 2022/05/06 11:36
+PHST- 2021/11/20 00:00 [received]
+PHST- 2022/03/28 00:00 [accepted]
+PHST- 2022/03/26 00:00 [revised]
+PHST- 2022/05/07 06:00 [pubmed]
+PHST- 2022/09/24 06:00 [medline]
+PHST- 2022/05/06 11:36 [entrez]
+PHST- 2022/05/06 00:00 [pmc-release]
+AID - 10.1007/s00467-022-05566-6 [pii]
+AID - 5566 [pii]
+AID - 10.1007/s00467-022-05566-6 [doi]
+PST - ppublish
+SO  - Pediatr Nephrol. 2022 Nov;37(11):2781-2784. doi: 10.1007/s00467-022-05566-6. Epub 
+      2022 May 6.

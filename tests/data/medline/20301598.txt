@@ -1,0 +1,100 @@
+
+PMID- 20301598
+STAT- Publisher
+DRDT- 20180405
+CTDT- 20070720
+PB  - University of Washington, Seattle
+DP  - 1993
+TI  - C3 Glomerulopathy.
+BTI - GeneReviews((R))
+AB  - CLINICAL CHARACTERISTICS: C3 glomerulopathy (C3G) is a complex ultra-rare 
+      complement-mediated renal disease caused by uncontrolled activation of the 
+      complement alternative pathway (AP) in the fluid phase (as opposed to cell 
+      surface) that is rarely inherited in a simple mendelian fashion. C3G affects 
+      individuals of all ages, with a median age at diagnosis of 23 years. Individuals 
+      with C3G typically present with hematuria, proteinuria, hematuria and 
+      proteinuria, acute nephritic syndrome or nephrotic syndrome, and low levels of 
+      the complement component C3. Spontaneous remission of C3G is uncommon, and about 
+      half of affected individuals develop end-stage renal disease (ESRD) within ten 
+      years of diagnosis, occasionally developing the late comorbidity of impaired 
+      visual acuity. DIAGNOSIS/TESTING: The definitive diagnosis of C3G requires a 
+      renal biopsy with specialized immunofluorescence and electron microscopy studies 
+      both for diagnosis and to distinguish between the two major subtypes of C3G: C3 
+      glomerulonephritis (C3GN) and dense deposit disease (DDD). Some individuals will 
+      have biallelic or heterozygous pathogenic variants identified by molecular 
+      genetic testing in one or more of the genes that have been implicated in the 
+      pathogenesis of C3G (i.e., C3, CD46, CFB, CFH, CFHR1, CFHR5, CFI, and DGKE). 
+      MANAGEMENT: Treatment of manifestations: Nonspecific therapies used to treat 
+      numerous chronic glomerular diseases, including angiotensin-converting enzyme 
+      inhibitors, angiotensin II type-1 receptor blockers, and lipid-lowering agents 
+      (in particular hydroxymethylglutaryl coenzyme A reductase inhibitors). Complement 
+      inhibition with a terminal pathway blocker may alter disease course in some 
+      individuals. When ESRD develops, treatment options are limited to dialysis or 
+      transplantation. C3G recurs in nearly all grafts and is the predominant cause of 
+      graft failure in 50%-90% of transplant recipients. Prevention of primary 
+      manifestations: Plasma replacement therapy in individuals with pathogenic 
+      variants in CFH may be effective in controlling complement activation and slowing 
+      progression of ESRD. Surveillance: Close monitoring of renal function by a 
+      nephrologist with familiarity with the C3G disease spectrum, complete biannual 
+      assessment of the complement pathway, periodic eye examinations to evaluate the 
+      fundus. Evaluation of relatives at risk: If the family history is positive for 
+      renal disease, evaluation of apparently asymptomatic at-risk relatives can 
+      include molecular genetic testing (if the pathogenic variants in the family are 
+      known), urinalysis, and comprehensive analysis of the complement system. GENETIC 
+      COUNSELING: C3G is a complex genetic disorder that is rarely inherited in a 
+      simple mendelian fashion. Multiple affected persons within a single nuclear 
+      family are reported only occasionally, with both dominant and recessive 
+      inheritance being described.
+CI  - Copyright (c) 1993-2026, University of Washington, Seattle. GeneReviews is a 
+      registered trademark of the University of Washington, Seattle. All rights 
+      reserved. Test.
+FED - Adam, Margaret P
+ED  - Adam MP
+FED - Bick, Sarah
+ED  - Bick S
+FED - Mirzaa, Ghayda M
+ED  - Mirzaa GM
+FED - Pagon, Roberta A
+ED  - Pagon RA
+FED - Wallace, Stephanie E
+ED  - Wallace SE
+FED - Amemiya, Anne
+ED  - Amemiya A
+FAU - Martin, Bertha
+AU  - Martin B
+AD  - Molecular Otolaryngology and Renal Research Laboratories Anatomy and Cell Biology 
+      Department University of Iowa Iowa City, Iowa
+FAU - Smith, Richard JH
+AU  - Smith RJH
+AD  - Professor of Internal Medicine, Division of Nephrology Sterba Hearing Research 
+      Professor of Otolaryngology Director, Molecular Otolaryngology and Renal Research 
+      Laboratories University of Iowa Iowa City, Iowa
+LA  - eng
+PT  - Review
+PT  - Book Chapter
+PL  - Seattle (WA)
+OTO - NLM
+OT  - Glomerulonephritis with Dominant C3
+OT  - C3G
+OT  - Complement C3
+OT  - Complement factor B
+OT  - Complement factor H
+OT  - Complement factor H-related protein 1
+OT  - Complement factor H-related protein 5
+OT  - Complement factor I
+OT  - Diacylglycerol kinase epsilon
+OT  - Membrane cofactor protein
+OT  - C3
+OT  - CD46
+OT  - CFB
+OT  - CFH
+OT  - CFHR1
+OT  - CFHR5
+OT  - CFI
+OT  - DGKE
+OT  - C3 Glomerulopathy
+OT  - C3G
+OT  - Glomerulonephritis with Dominant C3
+EDAT- 2018/04/05 00:00
+CRDT- 2018/04/05 00:00
+AID - NBK1425 [bookaccession]

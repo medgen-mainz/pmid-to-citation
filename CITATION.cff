@@ -11,8 +11,9 @@ repository-code: "https://github.com/medgen-mainz/pmid-to-citation"
 url: "https://pmid-to-citation.readthedocs.io/en/latest/"
 abstract: >-
   pmid-to-citation fetches PubMed records from the NCBI Entrez API by PMID,
-  validates them into type-annotated models, and renders them as
-  citation/reference text (initially in Nature style).
+  validates them into type-annotated Pydantic models, and renders them as
+  citation/reference text through Citation Style Language definitions
+  (Nature style is bundled).
 keywords:
   - bibliography
   - citation

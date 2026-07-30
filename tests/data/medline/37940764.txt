@@ -1,0 +1,136 @@
+
+PMID- 37940764
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240713
+LR  - 20240716
+IS  - 1559-0100 (Electronic)
+IS  - 1355-008X (Print)
+IS  - 1355-008X (Linking)
+VI  - 85
+IP  - 1
+DP  - 2024 Jul
+TI  - Exome sequencing (ES) of a pediatric cohort with chronic endocrine diseases: a 
+      single-center study (within the framework of the TRANSLATE-NAMSE project).
+PG  - 444-453
+LID - 10.1007/s12020-023-03581-7 [doi]
+AB  - BACKGROUND: Endocrine disorders are heterogeneous and include a significant 
+      number of rare monogenic diseases. METHODS: We performed exome sequencing (ES) in 
+      106 children recruited from a single center within the TRANSLATE‑NAMSE project. 
+      They were categorized into subgroups: proportionate short stature (PSS), 
+      disproportionate short stature (DSS), hypopituitarism (H), differences in sexual 
+      development (DSD), syndromic diseases (SD) and others. RESULTS: The overall 
+      diagnostic yield was 34.9% (n = 37/106), including 5 patients with variants in 
+      candidate genes, which have contributed to collaborations to identify 
+      gene-disease associations. The diagnostic yield varied significantly between 
+      subgroups: PSS: 16.6% (1/6); DSS: 18.8% (3/16); H: 17.1% (6/35); DSD: 37.5% 
+      (3/8); SD: 66.6% (22/33); others: 25% (2/8). Confirmed diagnoses included 75% 
+      ultrarare diseases. Three patients harbored more than one disease-causing 
+      variant, resulting in dual diagnoses. CONCLUSIONS: ES is an effective tool for 
+      genetic diagnosis in pediatric patients with complex endocrine diseases. An 
+      accurate phenotypic description, including comprehensive endocrine diagnostics, 
+      as well as the evaluation of variants in multidisciplinary case conferences 
+      involving geneticists, are necessary for personalized diagnostic care. Here, we 
+      illustrate the broad spectrum of genetic endocrinopathies that have led to the 
+      initiation of specific treatment, surveillance, and family counseling.
+CI  - (c) 2023. The Author(s).
+FAU - Gippert, Sebastian
+AU  - Gippert S
+AD  - Division of Pediatric Endocrinology and Diabetes, Center for Pediatrics and 
+      Adolescent Medicine, University Hospital Heidelberg, Heidelberg, Germany and 
+      Center for Rare Diseases, University Hospital Heidelberg, Heidelberg, Germany.
+FAU - Wagner, Matias
+AU  - Wagner M
+AUID- ORCID: 0000-0002-4454-8823
+AD  - Institute of Human Genetics, Klinikum rechts der Isar, School of Medicine, 
+      Technical University of Munich, Munich, Germany.
+AD  - Institute for Neurogenomics, Helmholtz Zentrum Munchen, Neuherberg, Germany.
+FAU - Brunet, Theresa
+AU  - Brunet T
+AD  - Institute of Human Genetics, Klinikum rechts der Isar, School of Medicine, 
+      Technical University of Munich, Munich, Germany.
+AD  - Department of Pediatric Neurology and Developmental Medicine, Hauner Children's 
+      Hospital, Ludwig Maximilian University of Munich, Munich, Germany.
+FAU - Berruti, Riccardo
+AU  - Berruti R
+AD  - Institute of Human Genetics, Klinikum rechts der Isar, School of Medicine, 
+      Technical University of Munich, Munich, Germany.
+FAU - Brugger, Melanie
+AU  - Brugger M
+AUID- ORCID: 0000-0002-6920-8550
+AD  - Institute of Human Genetics, Klinikum rechts der Isar, School of Medicine, 
+      Technical University of Munich, Munich, Germany.
+FAU - Schwaibold, Eva M C
+AU  - Schwaibold EMC
+AUID- ORCID: 0000-0003-2708-9642
+AD  - Institute of Human Genetics, Heidelberg University, Heidelberg, Germany.
+FAU - Haack, Tobias B
+AU  - Haack TB
+AUID- ORCID: 0000-0001-6033-4836
+AD  - Institute of Medical Genetics and Applied Genomics, University of Tuebingen, 
+      Tubingen, Germany and Centre for Rare Diseases, University of Tuebingen, 
+      Tubingen, Germany.
+FAU - Hoffmann, Georg F
+AU  - Hoffmann GF
+AUID- ORCID: 0000-0002-6593-896X
+AD  - Division of Pediatric Endocrinology and Diabetes, Center for Pediatrics and 
+      Adolescent Medicine, University Hospital Heidelberg, Heidelberg, Germany and 
+      Center for Rare Diseases, University Hospital Heidelberg, Heidelberg, Germany.
+FAU - Bettendorf, Markus
+AU  - Bettendorf M
+AUID- ORCID: 0000-0002-7988-0316
+AD  - Division of Pediatric Endocrinology and Diabetes, Center for Pediatrics and 
+      Adolescent Medicine, University Hospital Heidelberg, Heidelberg, Germany and 
+      Center for Rare Diseases, University Hospital Heidelberg, Heidelberg, Germany.
+FAU - Choukair, Daniela
+AU  - Choukair D
+AUID- ORCID: 0000-0002-1631-3883
+AD  - Division of Pediatric Endocrinology and Diabetes, Center for Pediatrics and 
+      Adolescent Medicine, University Hospital Heidelberg, Heidelberg, Germany and 
+      Center for Rare Diseases, University Hospital Heidelberg, Heidelberg, Germany. 
+      daniela.choukair@med.uni-heidelberg.de.
+LA  - eng
+PT  - Journal Article
+DEP - 20231108
+PL  - United States
+TA  - Endocrine
+JT  - Endocrine
+JID - 9434444
+SB  - IM
+MH  - Humans
+MH  - Child
+MH  - *Endocrine System Diseases/genetics/diagnosis
+MH  - Male
+MH  - Female
+MH  - *Exome Sequencing/methods
+MH  - Child, Preschool
+MH  - Adolescent
+MH  - Cohort Studies
+MH  - Infant
+MH  - Chronic Disease
+MH  - Exome/genetics
+MH  - Genetic Testing/methods
+PMC - PMC11246252
+OTO - NOTNLM
+OT  - Exome sequencing
+OT  - TRANSLATE-NAMSE
+OT  - chronic pediatric endocrine diseases
+OT  - multidisciplinary case conferences
+OT  - rare diseases
+COIS- The authors have no competing interests.
+EDAT- 2023/11/09 00:42
+MHDA- 2024/07/14 01:43
+PMCR- 2023/11/08
+CRDT- 2023/11/08 23:27
+PHST- 2023/07/24 00:00 [received]
+PHST- 2023/10/18 00:00 [accepted]
+PHST- 2024/07/14 01:43 [medline]
+PHST- 2023/11/09 00:42 [pubmed]
+PHST- 2023/11/08 23:27 [entrez]
+PHST- 2023/11/08 00:00 [pmc-release]
+AID - 10.1007/s12020-023-03581-7 [pii]
+AID - 3581 [pii]
+AID - 10.1007/s12020-023-03581-7 [doi]
+PST - ppublish
+SO  - Endocrine. 2024 Jul;85(1):444-453. doi: 10.1007/s12020-023-03581-7. Epub 2023 Nov 
+      8.
