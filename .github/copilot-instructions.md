@@ -11,7 +11,7 @@ text (Nature style first). Suggestions must be reviewed against the rules below.
 | Environment     | `uv`, against the committed `uv.lock`   |
 | Lint + format   | `ruff` (there is no black, no flake8)   |
 | Types           | `pyright` in **strict** mode            |
-| Tests           | `pytest`, `syrupy`                      |
+| Tests           | `pytest`, `respx`, `syrupy`             |
 | Docs            | Sphinx, Google-style docstrings         |
 | Releases        | release-please → PyPI Trusted Publishing |
 
@@ -20,20 +20,23 @@ Do not suggest adding a second formatter, `mypy`, `setup.py`, `requirements.txt`
 
 ## Dependencies
 
-The library has **no runtime dependencies**, and that is deliberate. A dependency
-is declared in `pyproject.toml` in the same change that first imports it, never
-ahead of use. Prefer the standard library where it is adequate, and when a new
-dependency really is warranted, say so explicitly and justify it rather than
+The runtime set is **`citeproc-py`, `httpx`, and `pydantic`** — nothing else. A
+dependency is declared in `pyproject.toml` in the same change that first imports
+it, never ahead of use. Prefer the standard library where it is adequate, and when
+a new dependency really is warranted, say so explicitly and justify it rather than
 adding it silently. The same applies to the `dev` group.
+
+Note that `citeproc-py` pulls in `lxml`, a compiled package, so this is no longer
+a pure-Python dependency tree even though the wheel itself is pure Python.
 
 ## Types
 
 - Annotate every parameter, return value, and attribute. `pyright` strict must
   report zero errors, so `Any` needs a reason, and `# type: ignore` needs a
   comment saying why.
-- Data parsed out of Entrez responses belongs in explicit model classes that
-  validate and normalise their fields (author name parts, page ranges,
-  publication dates) — not in bare `dict`s passed around as `dict[str, Any]`.
+- Data parsed out of Entrez responses belongs in Pydantic models that validate
+  and normalise their fields (author name parts, page ranges, publication dates)
+  — not in bare `dict`s passed around as `dict[str, Any]`.
 - The package ships `py.typed`. Its annotations are a published contract:
   changing one is an API change.
 
@@ -41,9 +44,10 @@ adding it silently. The same applies to the `dev` group.
 
 - **Never** call NCBI from a test unless it is marked `@pytest.mark.network`.
   Those tests are deselected by default (see `addopts`) and CI never runs them.
-- Default tests stub HTTP at the client boundary and run against response bodies
-  recorded under `tests/data/`. Recorded bodies are kept byte-for-byte as Entrez
-  returned them; pre-commit is configured not to rewrite them.
+- Default tests stub HTTP with `respx` and run against response bodies recorded
+  under `tests/data/medline/`. Recorded bodies are kept byte-for-byte as Entrez
+  returned them; pre-commit is configured not to rewrite them, and
+  `scripts/refresh_medline_fixtures.py` is how they are regenerated.
 - Entrez has rules, and code that ignores them gets the caller's IP blocked:
   send a `tool` and `email` parameter, keep to at most 3 requests per second
   without an API key, and support `NCBI_API_KEY` where one is available.
@@ -59,8 +63,9 @@ Fetching and formatting are separate concerns and must not be entangled:
 2. **Record models** — validated, normalised models of a PubMed record. Know
    nothing about HTTP or about output formats.
 3. **Styles** — turn a record into reference text. Pure functions over the
-   models; no I/O. Nature style is the first, and the design must not assume it
-   is the only one.
+   models; no I/O. Rendering goes through CSL and citeproc, which is an
+   implementation detail: **no CSL type may appear in the public API**, so that
+   the back end stays replaceable. `_csl.py` is private for that reason.
 
 A caller must be able to format a record it obtained elsewhere, and to fetch a
 record without formatting it.

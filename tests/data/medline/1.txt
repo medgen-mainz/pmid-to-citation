@@ -1,0 +1,56 @@
+
+PMID- 1
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19760116
+LR  - 20240109
+IS  - 0006-2944 (Print)
+IS  - 0006-2944 (Linking)
+VI  - 13
+IP  - 2
+DP  - 1975 Jun
+TI  - Formate assay in body fluids: application in methanol poisoning.
+PG  - 117-26
+FAU - Makar, A B
+AU  - Makar AB
+FAU - McMartin, K E
+AU  - McMartin KE
+FAU - Palese, M
+AU  - Palese M
+FAU - Tephly, T R
+AU  - Tephly TR
+LA  - eng
+GR  - F32 AG064886/AG/NIA NIH HHS/United States
+GR  - MC_UU_12013/5/MRC/United Kingdom
+PT  - Journal Article
+PT  - Research Support, U.S. Gov't, P.H.S.
+PL  - United States
+TA  - Biochem Med
+JT  - Biochemical medicine
+JID - 0151424
+RN  - 0 (Formates)
+RN  - 142M471B3J (Carbon Dioxide)
+RN  - EC 1.2.- (Aldehyde Oxidoreductases)
+RN  - Y4S76JWI15 (Methanol)
+SB  - IM
+MH  - Aldehyde Oxidoreductases/metabolism
+MH  - Animals
+MH  - Body Fluids/*analysis
+MH  - Carbon Dioxide/blood
+MH  - Formates/blood/*poisoning
+MH  - Haplorhini
+MH  - Humans
+MH  - Hydrogen-Ion Concentration
+MH  - Kinetics
+MH  - Methanol/blood
+MH  - Methods
+MH  - Pseudomonas/enzymology
+EDAT- 1975/06/01 00:00
+MHDA- 1975/06/01 00:01
+CRDT- 1975/06/01 00:00
+PHST- 1975/06/01 00:00 [pubmed]
+PHST- 1975/06/01 00:01 [medline]
+PHST- 1975/06/01 00:00 [entrez]
+AID - 10.1016/0006-2944(75)90147-7 [doi]
+PST - ppublish
+SO  - Biochem Med. 1975 Jun;13(2):117-26. doi: 10.1016/0006-2944(75)90147-7.

@@ -1,0 +1,131 @@
+
+PMID- 32510551
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210818
+LR  - 20210818
+IS  - 1460-2083 (Electronic)
+IS  - 0964-6906 (Print)
+IS  - 0964-6906 (Linking)
+VI  - 29
+IP  - 14
+DP  - 2020 Aug 11
+TI  - Effect of rare coding variants in the CFI gene on Factor I expression levels.
+PG  - 2313-2324
+LID - 10.1093/hmg/ddaa114 [doi]
+AB  - Factor I (FI) is one of the main inhibitors of complement activity, and numerous 
+      rare coding variants have been reported in patients with age-related macular 
+      degeneration, atypical hemolytic uremic syndrome and C3 glomerulopathy. Since 
+      many of these variants are of unknown clinical significance, this study aimed to 
+      determine the effect of rare coding variants in the complement factor I (CFI) 
+      gene on FI expression. We measured FI levels in plasma samples of carriers of 
+      rare coding variants and in vitro in the supernatants of epithelial cells 
+      expressing recombinant FI. FI levels were measured in 177 plasma samples of 155 
+      individuals, carrying 24 different rare coding variants in CFI. In carriers of 
+      the variants p.Gly119Arg, p.Leu131Arg, p.Gly188Ala and c.772G>A (r.685_773del), 
+      significantly reduced FI plasma levels were detected. Furthermore, recombinant FI 
+      expression levels were determined for 126 rare coding variants. Of these variants 
+      68 (54%) resulted in significantly reduced FI expression in supernatant compared 
+      to wildtype (WT). The recombinant protein expression levels correlated 
+      significantly with the FI level in plasma of carriers of CFI variants. In this 
+      study, we performed the most comprehensive FI expression level analysis of rare 
+      coding variants in CFI to date. More than half of CFI variants lead to reduced FI 
+      expression, which might impair complement regulation in vivo. Our study will aid 
+      the interpretation of rare coding CFI variants identified in clinical practice, 
+      which is in particular important in light of patient inclusion in ongoing 
+      clinical trials for CFI gene supplementation in AMD.
+CI  - (c) The Author(s) 2020. Published by Oxford University Press. All rights reserved. 
+      For Permissions, please email: journals.permissions@oup.com.
+FAU - de Jong, Sarah
+AU  - de Jong S
+AD  - Department of Ophthalmology, Donders Institute for Brain, Cognition and Behavior, 
+      Radboud University Medical Center, 6525 GA Nijmegen, The Netherlands.
+FAU - Volokhina, Elena B
+AU  - Volokhina EB
+AD  - Radboud Institute for Molecular Life Sciences, Radboud University Medical Center, 
+      6525 GA Nijmegen, The Netherlands.
+AD  - Amalia Children's Hospital, Radboud University Medical Center, 6525 GA Nijmegen, 
+      The Netherlands.
+AD  - Department of Laboratory Medicine, Radboud University Medical Center, 6525 GA 
+      Nijmegen, The Netherlands.
+FAU - de Breuk, Anita
+AU  - de Breuk A
+AD  - Department of Ophthalmology, Donders Institute for Brain, Cognition and Behavior, 
+      Radboud University Medical Center, 6525 GA Nijmegen, The Netherlands.
+FAU - Nilsson, Sara C
+AU  - Nilsson SC
+AD  - Department of Translational Medicine, Lund University, 21428 Malmo, Sweden.
+FAU - de Jong, Eiko K
+AU  - de Jong EK
+AD  - Department of Ophthalmology, Donders Institute for Brain, Cognition and Behavior, 
+      Radboud University Medical Center, 6525 GA Nijmegen, The Netherlands.
+FAU - van der Kar, Nicole C A J
+AU  - van der Kar NCAJ
+AD  - Radboud Institute for Molecular Life Sciences, Radboud University Medical Center, 
+      6525 GA Nijmegen, The Netherlands.
+AD  - Amalia Children's Hospital, Radboud University Medical Center, 6525 GA Nijmegen, 
+      The Netherlands.
+FAU - Bakker, Bjorn
+AU  - Bakker B
+AD  - Department of Ophthalmology, Donders Institute for Brain, Cognition and Behavior, 
+      Radboud University Medical Center, 6525 GA Nijmegen, The Netherlands.
+FAU - Hoyng, Carel B
+AU  - Hoyng CB
+AD  - Department of Ophthalmology, Donders Institute for Brain, Cognition and Behavior, 
+      Radboud University Medical Center, 6525 GA Nijmegen, The Netherlands.
+FAU - van den Heuvel, Lambert P
+AU  - van den Heuvel LP
+AD  - Radboud Institute for Molecular Life Sciences, Radboud University Medical Center, 
+      6525 GA Nijmegen, The Netherlands.
+AD  - Department of Laboratory Medicine, Radboud University Medical Center, 6525 GA 
+      Nijmegen, The Netherlands.
+FAU - Blom, Anna M
+AU  - Blom AM
+AD  - Department of Translational Medicine, Lund University, 21428 Malmo, Sweden.
+FAU - den Hollander, Anneke I
+AU  - den Hollander AI
+AD  - Department of Ophthalmology, Donders Institute for Brain, Cognition and Behavior, 
+      Radboud University Medical Center, 6525 GA Nijmegen, The Netherlands.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - England
+TA  - Hum Mol Genet
+JT  - Human molecular genetics
+JID - 9208958
+RN  - 9001-32-5 (Fibrinogen)
+RN  - EC 3.4.21.45 (Complement Factor I)
+SB  - IM
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Alleles
+MH  - Atypical Hemolytic Uremic Syndrome/blood/*genetics/pathology
+MH  - Complement Factor I/*genetics
+MH  - Female
+MH  - Fibrinogen/*genetics
+MH  - Gene Expression Regulation/genetics
+MH  - Genetic Predisposition to Disease
+MH  - Genotype
+MH  - Heterozygote
+MH  - Humans
+MH  - Macular Degeneration/blood/*genetics/pathology
+MH  - Male
+MH  - Middle Aged
+MH  - Polymorphism, Single Nucleotide/genetics
+PMC - PMC7424754
+EDAT- 2020/06/09 06:00
+MHDA- 2021/08/19 06:00
+PMCR- 2020/06/08
+CRDT- 2020/06/09 06:00
+PHST- 2020/03/18 00:00 [received]
+PHST- 2020/05/29 00:00 [revised]
+PHST- 2020/06/03 00:00 [accepted]
+PHST- 2020/06/09 06:00 [pubmed]
+PHST- 2021/08/19 06:00 [medline]
+PHST- 2020/06/09 06:00 [entrez]
+PHST- 2020/06/08 00:00 [pmc-release]
+AID - 5854562 [pii]
+AID - ddaa114 [pii]
+AID - 10.1093/hmg/ddaa114 [doi]
+PST - ppublish
+SO  - Hum Mol Genet. 2020 Aug 11;29(14):2313-2324. doi: 10.1093/hmg/ddaa114.

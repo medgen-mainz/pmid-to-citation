@@ -1,0 +1,99 @@
+
+PMID- 35457587
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220426
+LR  - 20220716
+IS  - 1660-4601 (Electronic)
+IS  - 1661-7827 (Print)
+IS  - 1660-4601 (Linking)
+VI  - 19
+IP  - 8
+DP  - 2022 Apr 13
+TI  - Free PoC Testing for SARS-CoV-2 in Germany: Factors Expanding Access to Various 
+      Communities in a Medium-Sized City.
+LID - 10.3390/ijerph19084721 [doi]
+LID - 4721
+AB  - During the third wave of the COVID-19 (coronavirus disease 2019) pandemic in 
+      Germany, free SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) 
+      point-of-care (PoC) antigen tests were offered to citizens at least once a week 
+      to prevent spreading by asymptomatic infected individuals. This study 
+      investigated user groups, timing, frequency, and test center locations in a 
+      typical medium-sized European city. We analyzed 27,369 pseudonymized datasets 
+      from eight centers over 12 weeks. Those were evaluated according to age, 
+      residence, appointment, and potential repeated test occurrence. The centers were 
+      visited by different groups; some centers were preferred by a predominantly 
+      younger demographic, whereas a mobile option attracted an older age group by 
+      reaching districts with few other testing possibilities. Elderly individuals were 
+      tested more spontaneously than younger individuals, and a test center at a 'park 
+      and ride' had more spontaneous visitors from outside of the city compared to 
+      other test locations. Only a small proportion of less than 4% came for testing 
+      more than five times. To preferably address many people for voluntary antigen 
+      testing, it is crucial to offer different test opportunities accounting for 
+      individual behavioral patterns, despite this requiring more complex and costly 
+      design than conventional forms.
+FAU - Witte, Anna Kristina
+AU  - Witte AK
+AD  - HTK Hygiene Technologie Kompetenzzentrum GmbH, Heinrichstr. 6, 96047 Bamberg, 
+      Germany.
+FAU - Grosch, Janina
+AU  - Grosch J
+AD  - HTK Hygiene Technologie Kompetenzzentrum GmbH, Heinrichstr. 6, 96047 Bamberg, 
+      Germany.
+FAU - Conrady, Beate
+AU  - Conrady B
+AUID- ORCID: 0000-0001-8554-5963
+AD  - Department of Veterinary and Animal Sciences, Faculty of Health and Medical 
+      Sciences, University of Copenhagen, 1870 Frederiksberg, Denmark.
+AD  - Complexity Science Hub Vienna, 1080 Vienna, Austria.
+FAU - Schomakers, Lena
+AU  - Schomakers L
+AD  - HTK Hygiene Technologie Kompetenzzentrum GmbH, Heinrichstr. 6, 96047 Bamberg, 
+      Germany.
+FAU - Grohmann, Marcus
+AU  - Grohmann M
+AD  - HTK Hygiene Technologie Kompetenzzentrum GmbH, Heinrichstr. 6, 96047 Bamberg, 
+      Germany.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20220413
+PL  - Switzerland
+TA  - Int J Environ Res Public Health
+JT  - International journal of environmental research and public health
+JID - 101238455
+SB  - IM
+MH  - Aged
+MH  - *COVID-19/diagnosis/epidemiology
+MH  - Germany/epidemiology
+MH  - Humans
+MH  - Pandemics
+MH  - Point-of-Care Testing
+MH  - *SARS-CoV-2
+PMC - PMC9027734
+OTO - NOTNLM
+OT  - Burgertest
+OT  - COVID-19 pandemic
+OT  - German citizen testing
+OT  - SARS-CoV-2 point-of-care antigen tests
+OT  - testing behavior
+OT  - testing strategy
+COIS- The authors A.K.W., J.G., L.S. and M.G. are employed by HTK Hygiene Technologie 
+      Kompetenzzentrum GmbH. B.C. declares no conflict of interest.
+EDAT- 2022/04/24 06:00
+MHDA- 2022/04/27 06:00
+PMCR- 2022/04/13
+CRDT- 2022/04/23 01:13
+PHST- 2022/03/09 00:00 [received]
+PHST- 2022/04/07 00:00 [revised]
+PHST- 2022/04/12 00:00 [accepted]
+PHST- 2022/04/23 01:13 [entrez]
+PHST- 2022/04/24 06:00 [pubmed]
+PHST- 2022/04/27 06:00 [medline]
+PHST- 2022/04/13 00:00 [pmc-release]
+AID - ijerph19084721 [pii]
+AID - ijerph-19-04721 [pii]
+AID - 10.3390/ijerph19084721 [doi]
+PST - epublish
+SO  - Int J Environ Res Public Health. 2022 Apr 13;19(8):4721. doi: 
+      10.3390/ijerph19084721.

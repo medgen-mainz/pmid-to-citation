@@ -1,0 +1,124 @@
+
+PMID- 34189567
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220103
+LR  - 20220315
+IS  - 1528-0020 (Electronic)
+IS  - 0006-4971 (Print)
+IS  - 0006-4971 (Linking)
+VI  - 138
+IP  - 22
+DP  - 2021 Dec 2
+TI  - Functional characterization of 105 factor H variants associated with aHUS: 
+      lessons for variant classification.
+PG  - 2185-2201
+LID - 10.1182/blood.2021012037 [doi]
+AB  - Atypical hemolytic uremic syndrome (aHUS) is a life-threatening thrombotic 
+      microangiopathy that can progress, when untreated, to end-stage renal disease. 
+      Most frequently, aHUS is caused by complement dysregulation due to pathogenic 
+      variants in genes that encode complement components and regulators. Among these 
+      genes, the factor H (FH) gene, CFH, presents with the highest frequency (15% to 
+      20%) of variants and is associated with the poorest prognosis. Correct 
+      classification of CFH variants as pathogenic or benign is essential to clinical 
+      care but remains challenging owing to the dearth of functional studies. As a 
+      result, significant numbers of variants are reported as variants of uncertain 
+      significance. To address this knowledge gap, we expressed and functionally 
+      characterized 105 aHUS-associated FH variants. All FH variants were categorized 
+      as pathogenic or benign and, for each, we fully documented the nature of the 
+      pathogenicity. Twenty-six previously characterized FH variants were used as 
+      controls to validate and confirm the robustness of the functional assays used. Of 
+      the remaining 79 uncharacterized variants, only 29 (36.7%) alter FH expression or 
+      function in vitro and, therefore, are proposed to be pathogenic. We show that 
+      rarity in control databases is not informative for variant classification, and we 
+      identify important limitations in applying prediction algorithms to FH variants. 
+      Based on structural and functional data, we suggest ways to circumvent these 
+      difficulties and, thereby, improve variant classification. Our work highlights 
+      the need for functional assays to interpret FH variants accurately if clinical 
+      care of patients with aHUS is to be individualized and optimized.
+CI  - (c) 2021 by The American Society of Hematology.
+FAU - Martin Merinero, Hector
+AU  - Martin Merinero H
+AUID- ORCID: 0000-0002-9094-5934
+AD  - Centro de Investigaciones Biologicas Margarita Salas, Consejo Superior de 
+      Investigaciones Cientificas (CSIC), Madrid, Spain.
+AD  - Centro de Investigacion Biomedica en Red de Enfermedades Raras, Madrid, Spain.
+FAU - Zhang, Yuzhou
+AU  - Zhang Y
+AUID- ORCID: 0000-0002-9626-5956
+AD  - Molecular Otolaryngology and Renal Research Laboratories, Carver College of 
+      Medicine, University of Iowa, Iowa City, IA; and.
+FAU - Arjona, Emilia
+AU  - Arjona E
+AD  - Centro de Investigaciones Biologicas Margarita Salas, Consejo Superior de 
+      Investigaciones Cientificas (CSIC), Madrid, Spain.
+AD  - Centro de Investigacion Biomedica en Red de Enfermedades Raras, Madrid, Spain.
+FAU - Del Angel, Guillermo
+AU  - Del Angel G
+AUID- ORCID: 0000-0002-0104-1563
+AD  - Alexion Pharmaceuticals, Inc, Boston, MA.
+FAU - Goodfellow, Renee
+AU  - Goodfellow R
+AD  - Molecular Otolaryngology and Renal Research Laboratories, Carver College of 
+      Medicine, University of Iowa, Iowa City, IA; and.
+FAU - Gomez-Rubio, Elena
+AU  - Gomez-Rubio E
+AUID- ORCID: 0000-0002-8037-4007
+AD  - Centro de Investigaciones Biologicas Margarita Salas, Consejo Superior de 
+      Investigaciones Cientificas (CSIC), Madrid, Spain.
+FAU - Ji, Rui-Ru
+AU  - Ji RR
+AD  - Alexion Pharmaceuticals, Inc, Boston, MA.
+FAU - Michelena, Malkoa
+AU  - Michelena M
+AD  - Centro de Investigaciones Biologicas Margarita Salas, Consejo Superior de 
+      Investigaciones Cientificas (CSIC), Madrid, Spain.
+AD  - Centro de Investigacion Biomedica en Red de Enfermedades Raras, Madrid, Spain.
+FAU - Smith, Richard J H
+AU  - Smith RJH
+AD  - Molecular Otolaryngology and Renal Research Laboratories, Carver College of 
+      Medicine, University of Iowa, Iowa City, IA; and.
+FAU - Rodriguez de Cordoba, Santiago
+AU  - Rodriguez de Cordoba S
+AUID- ORCID: 0000-0001-6401-1874
+AD  - Centro de Investigaciones Biologicas Margarita Salas, Consejo Superior de 
+      Investigaciones Cientificas (CSIC), Madrid, Spain.
+AD  - Centro de Investigacion Biomedica en Red de Enfermedades Raras, Madrid, Spain.
+LA  - eng
+GR  - R01 DK110023/DK/NIDDK NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Blood
+JT  - Blood
+JID - 7603509
+RN  - 0 (Recombinant Proteins)
+RN  - 80295-65-4 (Complement Factor H)
+SB  - IM
+MH  - Atypical Hemolytic Uremic Syndrome/*genetics/metabolism/pathology
+MH  - Complement Factor H/chemistry/*genetics/metabolism
+MH  - Gene Expression
+MH  - Genetic Predisposition to Disease
+MH  - Genetic Variation
+MH  - Humans
+MH  - Models, Molecular
+MH  - Point Mutation
+MH  - Polymorphism, Single Nucleotide
+MH  - Recombinant Proteins/chemistry/genetics/metabolism
+PMC - PMC8641096
+EDAT- 2021/07/01 06:00
+MHDA- 2022/01/04 06:00
+PMCR- 2021/12/02
+CRDT- 2021/06/30 06:49
+PHST- 2021/04/07 00:00 [received]
+PHST- 2021/06/08 00:00 [accepted]
+PHST- 2021/07/01 06:00 [pubmed]
+PHST- 2022/01/04 06:00 [medline]
+PHST- 2021/06/30 06:49 [entrez]
+PHST- 2021/12/02 00:00 [pmc-release]
+AID - S0006-4971(21)01292-1 [pii]
+AID - 2021/BLD2021012037 [pii]
+AID - 10.1182/blood.2021012037 [doi]
+PST - ppublish
+SO  - Blood. 2021 Dec 2;138(22):2185-2201. doi: 10.1182/blood.2021012037.

@@ -1,0 +1,117 @@
+
+PMID- 35642643
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20240917
+IS  - 1558-8238 (Electronic)
+IS  - 0021-9738 (Print)
+IS  - 0021-9738 (Linking)
+VI  - 132
+IP  - 11
+DP  - 2022 Jun 1
+TI  - Human C-terminal CUBN﻿﻿ variants associate with chronic proteinuria and normal 
+      renal function.
+LID - 10.1172/JCI161852 [doi]
+LID - e161852
+FAU - Bedin, Mathilda
+AU  - Bedin M
+FAU - Boyer, Olivia
+AU  - Boyer O
+FAU - Servais, Aude
+AU  - Servais A
+FAU - Li, Yong
+AU  - Li Y
+FAU - Villoing-Gaude, Laure
+AU  - Villoing-Gaude L
+FAU - Tete, Marie-Josephe
+AU  - Tete MJ
+FAU - Cambier, Alexandra
+AU  - Cambier A
+FAU - Hogan, Julien
+AU  - Hogan J
+FAU - Baudouin, Veronique
+AU  - Baudouin V
+FAU - Krid, Saoussen
+AU  - Krid S
+FAU - Bensman, Albert
+AU  - Bensman A
+FAU - Lammens, Florie
+AU  - Lammens F
+FAU - Louillet, Ferielle
+AU  - Louillet F
+FAU - Ranchin, Bruno
+AU  - Ranchin B
+FAU - Vigneau, Cecile
+AU  - Vigneau C
+FAU - Bouteau, Iseline
+AU  - Bouteau I
+FAU - Isnard-Bagnis, Corinne
+AU  - Isnard-Bagnis C
+FAU - Mache, Christoph J
+AU  - Mache CJ
+FAU - Schafer, Tobias
+AU  - Schafer T
+FAU - Pape, Lars
+AU  - Pape L
+FAU - Godel, Markus
+AU  - Godel M
+FAU - Huber, Tobias B
+AU  - Huber TB
+FAU - Benz, Marcus
+AU  - Benz M
+FAU - Klaus, Gunter
+AU  - Klaus G
+FAU - Hansen, Matthias
+AU  - Hansen M
+FAU - Latta, Kay
+AU  - Latta K
+FAU - Gribouval, Olivier
+AU  - Gribouval O
+FAU - Moriniere, Vincent
+AU  - Moriniere V
+FAU - Tournant, Carole
+AU  - Tournant C
+FAU - Grohmann, Maik
+AU  - Grohmann M
+FAU - Kuhn, Elisa
+AU  - Kuhn E
+FAU - Wagner, Timo
+AU  - Wagner T
+FAU - Bole-Feysot, Christine
+AU  - Bole-Feysot C
+FAU - Jabot-Hanin, Fabienne
+AU  - Jabot-Hanin F
+FAU - Nitschke, Patrick
+AU  - Nitschke P
+FAU - Ahluwalia, Tarunveer S
+AU  - Ahluwalia TS
+FAU - Kottgen, Anna
+AU  - Kottgen A
+FAU - Andersen, Christian Brix Folsted
+AU  - Andersen CBF
+FAU - Bergmann, Carsten
+AU  - Bergmann C
+FAU - Antignac, Corinne
+AU  - Antignac C
+FAU - Simons, Matias
+AU  - Simons M
+LA  - eng
+PT  - Published Erratum
+PL  - United States
+TA  - J Clin Invest
+JT  - The Journal of clinical investigation
+JID - 7802877
+EFR - J Clin Invest. 2020 Jan 2;130(1):335-344. doi: 10.1172/JCI129937. PMID: 31613795
+PMC - PMC9151686
+EDAT- 2022/06/02 06:00
+MHDA- 2022/06/03 06:00
+PMCR- 2022/06/01
+CRDT- 2022/06/01 06:03
+PHST- 2022/06/01 06:03 [entrez]
+PHST- 2022/06/02 06:00 [pubmed]
+PHST- 2022/06/03 06:00 [medline]
+PHST- 2022/06/01 00:00 [pmc-release]
+AID - 161852 [pii]
+AID - 10.1172/JCI161852 [doi]
+PST - ppublish
+SO  - J Clin Invest. 2022 Jun 1;132(11):e161852. doi: 10.1172/JCI161852.

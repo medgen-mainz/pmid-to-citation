@@ -1,0 +1,274 @@
+{
+  "abstract": null,
+  "authors": [
+    {
+      "affiliation": null,
+      "full_name": null,
+      "identifier": null,
+      "initials": "AB",
+      "last_name": "Makar",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": null,
+      "identifier": null,
+      "initials": "KE",
+      "last_name": "McMartin",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": null,
+      "identifier": null,
+      "initials": "M",
+      "last_name": "Palese",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": null,
+      "identifier": null,
+      "initials": "TR",
+      "last_name": "Tephly",
+      "suffix": null
+    }
+  ],
+  "book_title": null,
+  "chapter": null,
+  "collection_title": null,
+  "comment_in": [],
+  "comment_on": [],
+  "completion_date": "19760116",
+  "conflict_of_interest": null,
+  "contribution_date": null,
+  "copyright_information": null,
+  "corporate_authors": [],
+  "corrected_republished_from": [],
+  "corrected_republished_in": [],
+  "create_date": "1975-06-01T00:00:00.000000",
+  "dataset_described_in": [],
+  "dataset_use_reported_in": [],
+  "edition": null,
+  "editors": [],
+  "electronic_publication_date": null,
+  "entry_date": "1975-06-01T00:00:00.000000",
+  "erratum_for": [],
+  "erratum_in": [],
+  "expression_concern_for": [],
+  "expression_concern_in": [],
+  "full_authors": [
+    {
+      "affiliation": null,
+      "full_name": "Makar, A B",
+      "identifier": null,
+      "initials": "",
+      "last_name": "Makar",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": "McMartin, K E",
+      "identifier": null,
+      "initials": "",
+      "last_name": "McMartin",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": "Palese, M",
+      "identifier": null,
+      "initials": "",
+      "last_name": "Palese",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": "Tephly, T R",
+      "identifier": null,
+      "initials": "",
+      "last_name": "Tephly",
+      "suffix": null
+    }
+  ],
+  "full_editors": [],
+  "full_investigators": [],
+  "full_personal_name_subjects": [],
+  "gene_symbols": [],
+  "general_note": null,
+  "grants": [
+    {
+      "agency": "AG",
+      "country": "United States",
+      "grant_id": "F32 AG064886"
+    },
+    {
+      "agency": "5",
+      "country": "United Kingdom",
+      "grant_id": "MC_UU_12013"
+    }
+  ],
+  "identifiers": [
+    {
+      "type": "doi",
+      "value": "10.1016/0006-2944(75)90147-7"
+    }
+  ],
+  "investigators": [],
+  "isbn": null,
+  "issn_list": [
+    {
+      "issn": "0006-2944",
+      "type": "Linking"
+    },
+    {
+      "issn": "0006-2944",
+      "type": "Print"
+    }
+  ],
+  "issue": "2",
+  "journal_abbreviation": "Biochem Med",
+  "journal_id": "0151424",
+  "journal_title": "Biochemical medicine",
+  "language": "eng",
+  "last_revision_date": "20240109",
+  "location_ids": [],
+  "manuscript_id": null,
+  "mesh_date": "1975-06-01T00:01:00.000000",
+  "mesh_terms": [
+    {
+      "descriptor": "Aldehyde Oxidoreductases",
+      "major_topic": false,
+      "subheading": "metabolism"
+    },
+    {
+      "descriptor": "Animals",
+      "major_topic": false,
+      "subheading": null
+    },
+    {
+      "descriptor": "Body Fluids",
+      "major_topic": true,
+      "subheading": "analysis"
+    },
+    {
+      "descriptor": "Carbon Dioxide",
+      "major_topic": false,
+      "subheading": "blood"
+    },
+    {
+      "descriptor": "Formates",
+      "major_topic": true,
+      "subheading": "blood/poisoning"
+    },
+    {
+      "descriptor": "Haplorhini",
+      "major_topic": false,
+      "subheading": null
+    },
+    {
+      "descriptor": "Humans",
+      "major_topic": false,
+      "subheading": null
+    },
+    {
+      "descriptor": "Hydrogen-Ion Concentration",
+      "major_topic": false,
+      "subheading": null
+    },
+    {
+      "descriptor": "Kinetics",
+      "major_topic": false,
+      "subheading": null
+    },
+    {
+      "descriptor": "Methanol",
+      "major_topic": false,
+      "subheading": "blood"
+    },
+    {
+      "descriptor": "Methods",
+      "major_topic": false,
+      "subheading": null
+    },
+    {
+      "descriptor": "Pseudomonas",
+      "major_topic": false,
+      "subheading": "enzymology"
+    }
+  ],
+  "number_of_references": null,
+  "original_report_in": [],
+  "other_abstracts": [],
+  "other_copyright_information": null,
+  "other_fields": {},
+  "other_ids": [],
+  "other_term_owner": null,
+  "other_terms": [],
+  "owner": "NLM",
+  "pagination": "117-26",
+  "personal_name_subjects": [],
+  "place_of_publication": "United States",
+  "pmc_id": null,
+  "pmc_release_date": null,
+  "pmid": 1,
+  "publication_date": "1975 Jun",
+  "publication_history": [
+    {
+      "date": "1975-06-01T00:00:00.000000",
+      "type": "entrez"
+    },
+    {
+      "date": "1975-06-01T00:00:00.000000",
+      "type": "pubmed"
+    },
+    {
+      "date": "1975-06-01T00:01:00.000000",
+      "type": "medline"
+    }
+  ],
+  "publication_status": "ppublish",
+  "publication_types": [
+    "Journal Article",
+    "Research Support, U.S. Gov't, P.H.S."
+  ],
+  "publisher": null,
+  "republished_from": [],
+  "republished_in": [],
+  "retracted_republished_from": [],
+  "retracted_republished_in": [],
+  "retraction_in": [],
+  "retraction_of": [],
+  "revision_date": null,
+  "secondary_source_ids": [],
+  "source": "Biochem Med. 1975 Jun;13(2):117-26. doi: 10.1016/0006-2944(75)90147-7.",
+  "space_flight_mission": null,
+  "status": "MEDLINE",
+  "status_tag": null,
+  "subset": "IM",
+  "substances": [
+    {
+      "name": "Formates",
+      "registry_number": "0"
+    },
+    {
+      "name": "Carbon Dioxide",
+      "registry_number": "142M471B3J"
+    },
+    {
+      "name": "Aldehyde Oxidoreductases",
+      "registry_number": "EC 1.2.-"
+    },
+    {
+      "name": "Methanol",
+      "registry_number": "Y4S76JWI15"
+    }
+  ],
+  "summary_for_patients_in": [],
+  "title": "Formate assay in body fluids: application in methanol poisoning.",
+  "transliterated_title": null,
+  "update_in": [],
+  "update_of": [],
+  "volume": "13",
+  "volume_title": null
+}

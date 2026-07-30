@@ -1,0 +1,797 @@
+{
+  "abstract": null,
+  "authors": [
+    {
+      "affiliation": null,
+      "full_name": null,
+      "identifier": null,
+      "initials": "TS",
+      "last_name": "Ahluwalia",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": null,
+      "identifier": null,
+      "initials": "CBF",
+      "last_name": "Andersen",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": null,
+      "identifier": null,
+      "initials": "C",
+      "last_name": "Antignac",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": null,
+      "identifier": null,
+      "initials": "V",
+      "last_name": "Baudouin",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": null,
+      "identifier": null,
+      "initials": "M",
+      "last_name": "Bedin",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": null,
+      "identifier": null,
+      "initials": "A",
+      "last_name": "Bensman",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": null,
+      "identifier": null,
+      "initials": "M",
+      "last_name": "Benz",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": null,
+      "identifier": null,
+      "initials": "C",
+      "last_name": "Bergmann",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": null,
+      "identifier": null,
+      "initials": "C",
+      "last_name": "Bole-Feysot",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": null,
+      "identifier": null,
+      "initials": "I",
+      "last_name": "Bouteau",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": null,
+      "identifier": null,
+      "initials": "O",
+      "last_name": "Boyer",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": null,
+      "identifier": null,
+      "initials": "A",
+      "last_name": "Cambier",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": null,
+      "identifier": null,
+      "initials": "M",
+      "last_name": "Godel",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": null,
+      "identifier": null,
+      "initials": "O",
+      "last_name": "Gribouval",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": null,
+      "identifier": null,
+      "initials": "M",
+      "last_name": "Grohmann",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": null,
+      "identifier": null,
+      "initials": "M",
+      "last_name": "Hansen",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": null,
+      "identifier": null,
+      "initials": "J",
+      "last_name": "Hogan",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": null,
+      "identifier": null,
+      "initials": "TB",
+      "last_name": "Huber",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": null,
+      "identifier": null,
+      "initials": "C",
+      "last_name": "Isnard-Bagnis",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": null,
+      "identifier": null,
+      "initials": "F",
+      "last_name": "Jabot-Hanin",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": null,
+      "identifier": null,
+      "initials": "G",
+      "last_name": "Klaus",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": null,
+      "identifier": null,
+      "initials": "A",
+      "last_name": "Kottgen",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": null,
+      "identifier": null,
+      "initials": "S",
+      "last_name": "Krid",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": null,
+      "identifier": null,
+      "initials": "E",
+      "last_name": "Kuhn",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": null,
+      "identifier": null,
+      "initials": "F",
+      "last_name": "Lammens",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": null,
+      "identifier": null,
+      "initials": "K",
+      "last_name": "Latta",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": null,
+      "identifier": null,
+      "initials": "Y",
+      "last_name": "Li",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": null,
+      "identifier": null,
+      "initials": "F",
+      "last_name": "Louillet",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": null,
+      "identifier": null,
+      "initials": "CJ",
+      "last_name": "Mache",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": null,
+      "identifier": null,
+      "initials": "V",
+      "last_name": "Moriniere",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": null,
+      "identifier": null,
+      "initials": "P",
+      "last_name": "Nitschke",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": null,
+      "identifier": null,
+      "initials": "L",
+      "last_name": "Pape",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": null,
+      "identifier": null,
+      "initials": "B",
+      "last_name": "Ranchin",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": null,
+      "identifier": null,
+      "initials": "T",
+      "last_name": "Schafer",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": null,
+      "identifier": null,
+      "initials": "A",
+      "last_name": "Servais",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": null,
+      "identifier": null,
+      "initials": "M",
+      "last_name": "Simons",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": null,
+      "identifier": null,
+      "initials": "MJ",
+      "last_name": "Tete",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": null,
+      "identifier": null,
+      "initials": "C",
+      "last_name": "Tournant",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": null,
+      "identifier": null,
+      "initials": "C",
+      "last_name": "Vigneau",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": null,
+      "identifier": null,
+      "initials": "L",
+      "last_name": "Villoing-Gaude",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": null,
+      "identifier": null,
+      "initials": "T",
+      "last_name": "Wagner",
+      "suffix": null
+    }
+  ],
+  "book_title": null,
+  "chapter": null,
+  "collection_title": null,
+  "comment_in": [],
+  "comment_on": [],
+  "completion_date": null,
+  "conflict_of_interest": null,
+  "contribution_date": null,
+  "copyright_information": null,
+  "corporate_authors": [],
+  "corrected_republished_from": [],
+  "corrected_republished_in": [],
+  "create_date": "2022-06-01T06:03:00.000000",
+  "dataset_described_in": [],
+  "dataset_use_reported_in": [],
+  "edition": null,
+  "editors": [],
+  "electronic_publication_date": null,
+  "entry_date": "2022-06-02T06:00:00.000000",
+  "erratum_for": [
+    {
+      "citation_text": "J Clin Invest. 2020 Jan 2;130(1):335-344. doi: 10.1172/JCI129937. PMID: 31613795",
+      "pmid": 31613795,
+      "type": null
+    }
+  ],
+  "erratum_in": [],
+  "expression_concern_for": [],
+  "expression_concern_in": [],
+  "full_authors": [
+    {
+      "affiliation": null,
+      "full_name": "Ahluwalia, Tarunveer S",
+      "identifier": null,
+      "initials": "",
+      "last_name": "Ahluwalia",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": "Andersen, Christian Brix Folsted",
+      "identifier": null,
+      "initials": "",
+      "last_name": "Andersen",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": "Antignac, Corinne",
+      "identifier": null,
+      "initials": "",
+      "last_name": "Antignac",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": "Baudouin, Veronique",
+      "identifier": null,
+      "initials": "",
+      "last_name": "Baudouin",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": "Bedin, Mathilda",
+      "identifier": null,
+      "initials": "",
+      "last_name": "Bedin",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": "Bensman, Albert",
+      "identifier": null,
+      "initials": "",
+      "last_name": "Bensman",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": "Benz, Marcus",
+      "identifier": null,
+      "initials": "",
+      "last_name": "Benz",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": "Bergmann, Carsten",
+      "identifier": null,
+      "initials": "",
+      "last_name": "Bergmann",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": "Bole-Feysot, Christine",
+      "identifier": null,
+      "initials": "",
+      "last_name": "Bole-Feysot",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": "Bouteau, Iseline",
+      "identifier": null,
+      "initials": "",
+      "last_name": "Bouteau",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": "Boyer, Olivia",
+      "identifier": null,
+      "initials": "",
+      "last_name": "Boyer",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": "Cambier, Alexandra",
+      "identifier": null,
+      "initials": "",
+      "last_name": "Cambier",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": "Godel, Markus",
+      "identifier": null,
+      "initials": "",
+      "last_name": "Godel",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": "Gribouval, Olivier",
+      "identifier": null,
+      "initials": "",
+      "last_name": "Gribouval",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": "Grohmann, Maik",
+      "identifier": null,
+      "initials": "",
+      "last_name": "Grohmann",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": "Hansen, Matthias",
+      "identifier": null,
+      "initials": "",
+      "last_name": "Hansen",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": "Hogan, Julien",
+      "identifier": null,
+      "initials": "",
+      "last_name": "Hogan",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": "Huber, Tobias B",
+      "identifier": null,
+      "initials": "",
+      "last_name": "Huber",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": "Isnard-Bagnis, Corinne",
+      "identifier": null,
+      "initials": "",
+      "last_name": "Isnard-Bagnis",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": "Jabot-Hanin, Fabienne",
+      "identifier": null,
+      "initials": "",
+      "last_name": "Jabot-Hanin",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": "Klaus, Gunter",
+      "identifier": null,
+      "initials": "",
+      "last_name": "Klaus",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": "Kottgen, Anna",
+      "identifier": null,
+      "initials": "",
+      "last_name": "Kottgen",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": "Krid, Saoussen",
+      "identifier": null,
+      "initials": "",
+      "last_name": "Krid",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": "Kuhn, Elisa",
+      "identifier": null,
+      "initials": "",
+      "last_name": "Kuhn",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": "Lammens, Florie",
+      "identifier": null,
+      "initials": "",
+      "last_name": "Lammens",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": "Latta, Kay",
+      "identifier": null,
+      "initials": "",
+      "last_name": "Latta",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": "Li, Yong",
+      "identifier": null,
+      "initials": "",
+      "last_name": "Li",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": "Louillet, Ferielle",
+      "identifier": null,
+      "initials": "",
+      "last_name": "Louillet",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": "Mache, Christoph J",
+      "identifier": null,
+      "initials": "",
+      "last_name": "Mache",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": "Moriniere, Vincent",
+      "identifier": null,
+      "initials": "",
+      "last_name": "Moriniere",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": "Nitschke, Patrick",
+      "identifier": null,
+      "initials": "",
+      "last_name": "Nitschke",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": "Pape, Lars",
+      "identifier": null,
+      "initials": "",
+      "last_name": "Pape",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": "Ranchin, Bruno",
+      "identifier": null,
+      "initials": "",
+      "last_name": "Ranchin",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": "Schafer, Tobias",
+      "identifier": null,
+      "initials": "",
+      "last_name": "Schafer",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": "Servais, Aude",
+      "identifier": null,
+      "initials": "",
+      "last_name": "Servais",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": "Simons, Matias",
+      "identifier": null,
+      "initials": "",
+      "last_name": "Simons",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": "Tete, Marie-Josephe",
+      "identifier": null,
+      "initials": "",
+      "last_name": "Tete",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": "Tournant, Carole",
+      "identifier": null,
+      "initials": "",
+      "last_name": "Tournant",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": "Vigneau, Cecile",
+      "identifier": null,
+      "initials": "",
+      "last_name": "Vigneau",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": "Villoing-Gaude, Laure",
+      "identifier": null,
+      "initials": "",
+      "last_name": "Villoing-Gaude",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": "Wagner, Timo",
+      "identifier": null,
+      "initials": "",
+      "last_name": "Wagner",
+      "suffix": null
+    }
+  ],
+  "full_editors": [],
+  "full_investigators": [],
+  "full_personal_name_subjects": [],
+  "gene_symbols": [],
+  "general_note": null,
+  "grants": [],
+  "identifiers": [
+    {
+      "type": "doi",
+      "value": "10.1172/JCI161852"
+    },
+    {
+      "type": "pii",
+      "value": "161852"
+    }
+  ],
+  "investigators": [],
+  "isbn": null,
+  "issn_list": [
+    {
+      "issn": "0021-9738",
+      "type": "Linking"
+    },
+    {
+      "issn": "0021-9738",
+      "type": "Print"
+    },
+    {
+      "issn": "1558-8238",
+      "type": "Electronic"
+    }
+  ],
+  "issue": "11",
+  "journal_abbreviation": "J Clin Invest",
+  "journal_id": "7802877",
+  "journal_title": "The Journal of clinical investigation",
+  "language": "eng",
+  "last_revision_date": "20240917",
+  "location_ids": [
+    "10.1172/JCI161852 [doi]",
+    "e161852"
+  ],
+  "manuscript_id": null,
+  "mesh_date": "2022-06-03T06:00:00.000000",
+  "mesh_terms": [],
+  "number_of_references": null,
+  "original_report_in": [],
+  "other_abstracts": [],
+  "other_copyright_information": null,
+  "other_fields": {},
+  "other_ids": [],
+  "other_term_owner": null,
+  "other_terms": [],
+  "owner": "NLM",
+  "pagination": null,
+  "personal_name_subjects": [],
+  "place_of_publication": "United States",
+  "pmc_id": "PMC9151686",
+  "pmc_release_date": "2022/06/01",
+  "pmid": 35642643,
+  "publication_date": "2022 Jun 1",
+  "publication_history": [
+    {
+      "date": "2022-06-01T00:00:00.000000",
+      "type": "pmc-release"
+    },
+    {
+      "date": "2022-06-01T06:03:00.000000",
+      "type": "entrez"
+    },
+    {
+      "date": "2022-06-02T06:00:00.000000",
+      "type": "pubmed"
+    },
+    {
+      "date": "2022-06-03T06:00:00.000000",
+      "type": "medline"
+    }
+  ],
+  "publication_status": "ppublish",
+  "publication_types": [
+    "Published Erratum"
+  ],
+  "publisher": null,
+  "republished_from": [],
+  "republished_in": [],
+  "retracted_republished_from": [],
+  "retracted_republished_in": [],
+  "retraction_in": [],
+  "retraction_of": [],
+  "revision_date": null,
+  "secondary_source_ids": [],
+  "source": "J Clin Invest. 2022 Jun 1;132(11):e161852. doi: 10.1172/JCI161852.",
+  "space_flight_mission": null,
+  "status": "PubMed-not-MEDLINE",
+  "status_tag": null,
+  "subset": null,
+  "substances": [],
+  "summary_for_patients_in": [],
+  "title": "Human C-terminal CUBN﻿﻿ variants associate with chronic proteinuria and normal renal function.",
+  "transliterated_title": null,
+  "update_in": [],
+  "update_of": [],
+  "volume": "132",
+  "volume_title": null
+}

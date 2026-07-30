@@ -1,0 +1,382 @@
+{
+  "abstract": "BACKGROUND: Endocrine disorders are heterogeneous and include a significant number of rare monogenic diseases. METHODS: We performed exome sequencing (ES) in 106 children recruited from a single center within the TRANSLATE‑NAMSE project. They were categorized into subgroups: proportionate short stature (PSS), disproportionate short stature (DSS), hypopituitarism (H), differences in sexual development (DSD), syndromic diseases (SD) and others. RESULTS: The overall diagnostic yield was 34.9% (n = 37/106), including 5 patients with variants in candidate genes, which have contributed to collaborations to identify gene-disease associations. The diagnostic yield varied significantly between subgroups: PSS: 16.6% (1/6); DSS: 18.8% (3/16); H: 17.1% (6/35); DSD: 37.5% (3/8); SD: 66.6% (22/33); others: 25% (2/8). Confirmed diagnoses included 75% ultrarare diseases. Three patients harbored more than one disease-causing variant, resulting in dual diagnoses. CONCLUSIONS: ES is an effective tool for genetic diagnosis in pediatric patients with complex endocrine diseases. An accurate phenotypic description, including comprehensive endocrine diagnostics, as well as the evaluation of variants in multidisciplinary case conferences involving geneticists, are necessary for personalized diagnostic care. Here, we illustrate the broad spectrum of genetic endocrinopathies that have led to the initiation of specific treatment, surveillance, and family counseling.",
+  "authors": [
+    {
+      "affiliation": null,
+      "full_name": null,
+      "identifier": null,
+      "initials": "R",
+      "last_name": "Berruti",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": null,
+      "identifier": null,
+      "initials": "M",
+      "last_name": "Bettendorf",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": null,
+      "identifier": null,
+      "initials": "M",
+      "last_name": "Brugger",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": null,
+      "identifier": null,
+      "initials": "T",
+      "last_name": "Brunet",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": null,
+      "identifier": null,
+      "initials": "D",
+      "last_name": "Choukair",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": null,
+      "identifier": null,
+      "initials": "S",
+      "last_name": "Gippert",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": null,
+      "identifier": null,
+      "initials": "TB",
+      "last_name": "Haack",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": null,
+      "identifier": null,
+      "initials": "GF",
+      "last_name": "Hoffmann",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": null,
+      "identifier": null,
+      "initials": "EMC",
+      "last_name": "Schwaibold",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": null,
+      "identifier": null,
+      "initials": "M",
+      "last_name": "Wagner",
+      "suffix": null
+    }
+  ],
+  "book_title": null,
+  "chapter": null,
+  "collection_title": null,
+  "comment_in": [],
+  "comment_on": [],
+  "completion_date": "20240713",
+  "conflict_of_interest": null,
+  "contribution_date": null,
+  "copyright_information": "(c) 2023. The Author(s).",
+  "corporate_authors": [],
+  "corrected_republished_from": [],
+  "corrected_republished_in": [],
+  "create_date": "2023-11-08T23:27:00.000000",
+  "dataset_described_in": [],
+  "dataset_use_reported_in": [],
+  "edition": null,
+  "editors": [],
+  "electronic_publication_date": "20231108",
+  "entry_date": "2023-11-09T00:42:00.000000",
+  "erratum_for": [],
+  "erratum_in": [],
+  "expression_concern_for": [],
+  "expression_concern_in": [],
+  "full_authors": [
+    {
+      "affiliation": null,
+      "full_name": "Berruti, Riccardo",
+      "identifier": null,
+      "initials": "",
+      "last_name": "Berruti",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": "Bettendorf, Markus",
+      "identifier": null,
+      "initials": "",
+      "last_name": "Bettendorf",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": "Brugger, Melanie",
+      "identifier": null,
+      "initials": "",
+      "last_name": "Brugger",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": "Brunet, Theresa",
+      "identifier": null,
+      "initials": "",
+      "last_name": "Brunet",
+      "suffix": null
+    },
+    {
+      "affiliation": "Division of Pediatric Endocrinology and Diabetes, Center for Pediatrics and Adolescent Medicine, University Hospital Heidelberg, Heidelberg, Germany and Center for Rare Diseases, University Hospital Heidelberg, Heidelberg, Germany. daniela.choukair@med.uni-heidelberg.de.",
+      "full_name": "Choukair, Daniela",
+      "identifier": "ORCID: 0000-0002-1631-3883",
+      "initials": "",
+      "last_name": "Choukair",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": "Gippert, Sebastian",
+      "identifier": null,
+      "initials": "",
+      "last_name": "Gippert",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": "Haack, Tobias B",
+      "identifier": null,
+      "initials": "",
+      "last_name": "Haack",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": "Hoffmann, Georg F",
+      "identifier": null,
+      "initials": "",
+      "last_name": "Hoffmann",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": "Schwaibold, Eva M C",
+      "identifier": null,
+      "initials": "",
+      "last_name": "Schwaibold",
+      "suffix": null
+    },
+    {
+      "affiliation": null,
+      "full_name": "Wagner, Matias",
+      "identifier": null,
+      "initials": "",
+      "last_name": "Wagner",
+      "suffix": null
+    }
+  ],
+  "full_editors": [],
+  "full_investigators": [],
+  "full_personal_name_subjects": [],
+  "gene_symbols": [],
+  "general_note": null,
+  "grants": [],
+  "identifiers": [
+    {
+      "type": "doi",
+      "value": "10.1007/s12020-023-03581-7"
+    },
+    {
+      "type": "pii",
+      "value": "10.1007/s12020-023-03581-7"
+    },
+    {
+      "type": "pii",
+      "value": "3581"
+    }
+  ],
+  "investigators": [],
+  "isbn": null,
+  "issn_list": [
+    {
+      "issn": "1355-008X",
+      "type": "Linking"
+    },
+    {
+      "issn": "1355-008X",
+      "type": "Print"
+    },
+    {
+      "issn": "1559-0100",
+      "type": "Electronic"
+    }
+  ],
+  "issue": "1",
+  "journal_abbreviation": "Endocrine",
+  "journal_id": "9434444",
+  "journal_title": "Endocrine",
+  "language": "eng",
+  "last_revision_date": "20240716",
+  "location_ids": [
+    "10.1007/s12020-023-03581-7 [doi]"
+  ],
+  "manuscript_id": null,
+  "mesh_date": "2024-07-14T01:43:00.000000",
+  "mesh_terms": [
+    {
+      "descriptor": "Adolescent",
+      "major_topic": false,
+      "subheading": null
+    },
+    {
+      "descriptor": "Child",
+      "major_topic": false,
+      "subheading": null
+    },
+    {
+      "descriptor": "Child, Preschool",
+      "major_topic": false,
+      "subheading": null
+    },
+    {
+      "descriptor": "Chronic Disease",
+      "major_topic": false,
+      "subheading": null
+    },
+    {
+      "descriptor": "Cohort Studies",
+      "major_topic": false,
+      "subheading": null
+    },
+    {
+      "descriptor": "Endocrine System Diseases",
+      "major_topic": true,
+      "subheading": "genetics/diagnosis"
+    },
+    {
+      "descriptor": "Exome",
+      "major_topic": false,
+      "subheading": "genetics"
+    },
+    {
+      "descriptor": "Exome Sequencing",
+      "major_topic": true,
+      "subheading": "methods"
+    },
+    {
+      "descriptor": "Female",
+      "major_topic": false,
+      "subheading": null
+    },
+    {
+      "descriptor": "Genetic Testing",
+      "major_topic": false,
+      "subheading": "methods"
+    },
+    {
+      "descriptor": "Humans",
+      "major_topic": false,
+      "subheading": null
+    },
+    {
+      "descriptor": "Infant",
+      "major_topic": false,
+      "subheading": null
+    },
+    {
+      "descriptor": "Male",
+      "major_topic": false,
+      "subheading": null
+    }
+  ],
+  "number_of_references": null,
+  "original_report_in": [],
+  "other_abstracts": [],
+  "other_copyright_information": null,
+  "other_fields": {
+    "COIS": [
+      "The authors have no competing interests."
+    ]
+  },
+  "other_ids": [],
+  "other_term_owner": "NOTNLM",
+  "other_terms": [
+    "Exome sequencing",
+    "TRANSLATE-NAMSE",
+    "chronic pediatric endocrine diseases",
+    "multidisciplinary case conferences",
+    "rare diseases"
+  ],
+  "owner": "NLM",
+  "pagination": "444-453",
+  "personal_name_subjects": [],
+  "place_of_publication": "United States",
+  "pmc_id": "PMC11246252",
+  "pmc_release_date": "2023/11/08",
+  "pmid": 37940764,
+  "publication_date": "2024 Jul",
+  "publication_history": [
+    {
+      "date": "2023-07-24T00:00:00.000000",
+      "type": "received"
+    },
+    {
+      "date": "2023-10-18T00:00:00.000000",
+      "type": "accepted"
+    },
+    {
+      "date": "2023-11-08T00:00:00.000000",
+      "type": "pmc-release"
+    },
+    {
+      "date": "2023-11-08T23:27:00.000000",
+      "type": "entrez"
+    },
+    {
+      "date": "2023-11-09T00:42:00.000000",
+      "type": "pubmed"
+    },
+    {
+      "date": "2024-07-14T01:43:00.000000",
+      "type": "medline"
+    }
+  ],
+  "publication_status": "ppublish",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "publisher": null,
+  "republished_from": [],
+  "republished_in": [],
+  "retracted_republished_from": [],
+  "retracted_republished_in": [],
+  "retraction_in": [],
+  "retraction_of": [],
+  "revision_date": null,
+  "secondary_source_ids": [],
+  "source": "Endocrine. 2024 Jul;85(1):444-453. doi: 10.1007/s12020-023-03581-7. Epub 2023 Nov 8.",
+  "space_flight_mission": null,
+  "status": "MEDLINE",
+  "status_tag": null,
+  "subset": "IM",
+  "substances": [],
+  "summary_for_patients_in": [],
+  "title": "Exome sequencing (ES) of a pediatric cohort with chronic endocrine diseases: a single-center study (within the framework of the TRANSLATE-NAMSE project).",
+  "transliterated_title": null,
+  "update_in": [],
+  "update_of": [],
+  "volume": "85",
+  "volume_title": null
+}
