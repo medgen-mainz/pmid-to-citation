@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.1](https://github.com/medgen-mainz/pmid-to-citation/compare/pmid-to-citation-v0.1.0...pmid-to-citation-v0.1.1) (2026-07-30)
+
+
+### Bug Fixes
+
+* keep implementation notes and Sphinx roles out of schema descriptions ([#8](https://github.com/medgen-mainz/pmid-to-citation/issues/8)) ([99b414e](https://github.com/medgen-mainz/pmid-to-citation/commit/99b414e83637cc5560e76859769bc97c5a033535))
+
 ## 0.1.0 (2026-07-30)
 
 
